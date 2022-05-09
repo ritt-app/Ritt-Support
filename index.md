@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+---
+title: Home
+nav_order: 1
+description: "Introduction to Ritt"
+---
+
+## Welcome to Ritt
 
 You can use the [editor on GitHub](https://github.com/ritt-app/doc/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
