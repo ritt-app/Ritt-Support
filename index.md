@@ -11,3 +11,5 @@ description: "Introduction to Ritt"
 Ritt is built on top of the existing file system and provides many useful functionalities.
 
 The central object in Ritt is the tag 🏷️. Unlike most other tagging systems, a tag in Ritt can contain other tags as children, so tags can be ordered hierarchically as tag trees. A tag can also be associated with many files and folders, and a file/folder can have many tags.
+
+![Hero image](/img/Hero%20image.png)
