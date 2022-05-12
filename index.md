@@ -4,7 +4,7 @@ nav_order: 1
 description: "Introduction to Ritt"
 ---
 
-## Welcome to Ritt
+# Welcome to Ritt
 
 **Ritt** is a productivity app for Windows 10 that provides a revolutionary way to efficiently organize your files and folders into a lightweight database, using hierarchical tags. It complements your existing file system and gives you powerful new ways to classify and retrieve your files.
 
