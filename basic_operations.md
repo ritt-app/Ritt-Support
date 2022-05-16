@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Basic Operations
-nav_order: 2
+nav_order: 5
 ---
 
 # Basic Operations
