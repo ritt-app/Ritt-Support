@@ -26,7 +26,7 @@ The central object in Ritt is the tag 🏷️. Unlike most other tagging systems
 - Select "Local folder" in the menu
 - Select a folder which you wish to organize better with Ritt
 
-![Add Source](/img/Add-Source.svg)
+![Add Source](/img/Add-Source.png)
 
 ## Add Tags
 
