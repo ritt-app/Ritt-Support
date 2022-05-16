@@ -12,4 +12,30 @@ Ritt is built on top of the existing file system and provides many useful functi
 
 The central object in Ritt is the tag 🏷️. Unlike most other tagging systems, a tag in Ritt can contain other tags as children, so tags can be ordered hierarchically as tag trees. A tag can also be associated with many files and folders, and a file/folder can have many tags.
 
-![Hero image](/img/Hero%20image.png)
+![Hero image](/img/Hero.png)
+
+# Quick start
+
+## Create a new Ritt database
+
+- Click on the "New" button in the top banner
+
+## Add Sources to organize
+
+- Click on the Add Source button
+- Select "Local folder" in the menu
+- Select a folder which you wish to organize better with Ritt
+
+![Add Source](/img/Add-Source.svg)
+
+## Add Tags
+
+- Click on the Add Tag button
+- Enter a suitable name for the new tag
+
+![Add Tag](/img/Add-Tag.svg)
+
+- Navigate to and select the file or folder that you wish to tag
+- Tag item by clicking on the empty circle next to the tag
+
+![Tag File](/img/Tag-File.svg)
