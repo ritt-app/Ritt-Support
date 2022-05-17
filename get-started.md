@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Quick Start
+title: Get Started
 nav_order: 2
+permalink: /get-started
 ---
 
-# Quick start
+# Get Started
 
 ## Create a new Ritt database
 
