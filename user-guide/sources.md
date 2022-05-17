@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Sources (Local folders)
+title: Sources
 parent: User Guide
-nav_order: 5
+nav_order: 10
+permalink: /user-guide/sources
 ---
 
-# Sources (Local folders)
+# Sources
 
 ## Sources
 A Source is a folder that contains files which you wish to organize using Ritt. To add a folder as a source, click on the Add Source button located next to the add tag button. You may add several folders to become the your source(s) but you cannot add a source's content as another source.

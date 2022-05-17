@@ -2,7 +2,8 @@
 layout: default
 title: Tags
 parent: User Guide
-nav_order: 10
+nav_order: 20
+permalink: /user-guide/tags
 ---
 
 # Tags
