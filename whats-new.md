@@ -7,20 +7,20 @@ permalink: /whats-new
 
 # What's new?
 
-## V0.6.0
+## V0.6
 - Task management
 - Relevant tags suggestion
 - Active tags bar
 - Display badge next to tagged items
 
-## V0.5.0
+## V0.5
 - Improved search experience
 - Navigate to tag and do tagging directly from the search prompt
 - Improved Previewer
 - Added sort function
 - Added autosave and home button
 
-## V0.4.0
+## V0.4
 - Greatly simplified UI
 - The left panel of Sources is removed to reduce visual clutter and transfer focus to the tag trees
 - Drag and drop files/folders onto the tag tree to create tags
