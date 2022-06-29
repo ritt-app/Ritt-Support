@@ -35,7 +35,7 @@ permalink: /get-started
 
 - Click on the **Add Tag** <img src="img/Button-Add-Tag.PNG" alt="Add Tag Button" width="30" style="padding: 0px 3px 0px 3px"/> button to add new tags.
 - Enter a suitable name for the new tag. <br/>![Add Tag](/img/Add-Tag.png)
-- After the first tag has been created, you can also add new tags by dragging and dropping the Add Tag button to a desired position in the list of existing tags. <br/><video src="/img/Media1.mp4"></video>
+- After the first tag has been created, you can also add new tags by dragging and dropping the Add Tag button to a desired position in the list of existing tags. <br/>![Drag Drop Tag](/img/Video-Drag-Drop-New-Tag.mp4)
 
 
 ## Tagging files/folders
