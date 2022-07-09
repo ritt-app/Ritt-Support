@@ -15,15 +15,28 @@ A Source is a folder that contains items which you wish to organize using Ritt. 
 1. **Local folder** - Any folder that is accessible with File Explorer
 1. **Task collection** - A virtual folder that contains tasks
 
+You can add multiple sources into a single Ritt database.
+
+## Adding a local folder as a Source
+
 To add a Local folder as a Source,
 
-- Click on the Add Source button
-- Select "Local folder" in the menu <br/>![Add Source](/img/Add-Source.png)
-- Select a folder which you wish to organize better with Ritt
+- Click on the **Add Source** button.
+- Select **Local folder** in the menu.
+- Select a folder which you wish to organize better with Ritt.
 
-:bangbang: If you cannot add a subfolder of a Source as another Source, unless you wish to [promote it to a Source](#promote-to-source).
+  <video autoplay loop width="500" controls>
+    <source src="/img/MOV-Add-New-Source.mov" type="video/mp4">
+  </video>
 
-:bangbang: If you add a 
+
+
+**Note:** You cannot add a subfolder of a Source as a separate Source. However, you may wish to [promote it to a Source](#promote-to-source).
+
+
+## Adding a task collection
+
+
 
 ## Returning to source
 

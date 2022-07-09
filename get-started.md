@@ -50,8 +50,9 @@ permalink: /get-started
 
 ## Activating a tag
 
-- In the tag tree (left panel), navigate to and click on desired tag to activate it
-- Tagged items will be displayed <br/><br/>![Access items](/img/Access-through-tags.png)
+- In the tag tree (left panel), navigate to and click on desired tag to activate it.
+- Tagged items will be displayed in the right panel.
+- Related tags are displayed in a section above the tagged items to facilitate navigation.  <br/><br/>![Access items](/img/Access-through-tags.png)
 
 ## Activating multiple tags
 
