@@ -35,7 +35,11 @@ permalink: /get-started
 
 - Click on the **Add Tag** <img src="img/Button-Add-Tag.PNG" alt="Add Tag Button" width="50" style="padding: 0px 3px 0px 3px"/> button to add new tags.
 - Enter a suitable name for the new tag. <br/><br/>![Add Tag](/img/Add-Tag.png)<br/><br/>
-- After the first tag has been created, you can also add new tags by dragging and dropping the Add Tag button to a desired position in the list of existing tags. <br/><br/><img src="img/GIF-Drag-Drop-New-Tag.gif" alt="Add Tag Button" width="300"/>
+- After the first tag has been created, you can also add new tags by dragging and dropping the Add Tag button to a desired position in the list of existing tags.
+
+<video autoplay loop width="500" controls>
+  <source src="/img/MOV-Drag-Drop-New-Tag.mov" type="video/mp4">
+</video>
 
 
 ## Tagging files/folders
@@ -46,16 +50,22 @@ permalink: /get-started
 ## Creating tag trees
 
 - When you create many tags, you may want to organize the tags hierarchically.
-- Drag and drop children tags into parent tags. <br/><br/><img src="img/GIF-Drag-Children-to-Parent-Tag.gif" alt="Drag Children to Parent Tag" width="300"/>
+- Drag and drop children tags into parent tags.
+
+<video autoplay loop width="500" controls>
+  <source src="/img/MOV-Drag-Children-to-Parent-Tag.mov" type="video/mp4">
+</video>
 
 ## Activating a tag
 
 - In the tag tree (left panel), navigate to and click on desired tag to activate it.
 - Tagged items will be displayed in the right panel.
-- Related tags are displayed in a section above the tagged items to facilitate navigation.  <br/><br/>![Access items](/img/Access-through-tags.png)
+- *Related Tags* are displayed in a section above the tagged items to facilitate navigation. 
+ <br/><br/>![Access items](/img/Access-through-tags.png)
+ **(UPDATE IMAGE)**
 
 ## Activating multiple tags
 
-- Notice that other relevant tags are automatically presented in the right panel
-- Double click on another tag to activate it
-- Alternatively, in the tag tree, navigate to the desired tag and Control + click (or middle mouse button click) to activate it <br/><br/>![Access through multiple tags](/img/Access-through-multiple-tags.png)
+- Double click on another tag under *Related Tags* to activate it. You will now see items that are tagged to both tags.
+- Alternatively, in the tag tree on the left pane, Ctrl + click (or middle mouse button click) on another tag to activate it. <br/><br/>![Access through multiple tags](/img/Access-through-multiple-tags.png)
+**(UPDATE IMAGE)**
