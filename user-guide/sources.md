@@ -25,7 +25,7 @@ To add a Local folder as a Source,
 - Select **Local folder** in the menu. 
 - Select a folder which you wish to organize better with Ritt.
 
-<video autoplay loop width="500" controls>
+<video autoplay loop width="800" controls>
   <source src="/img/MOV-Add-New-Source.mov" type="video/mp4">
 </video>
 
@@ -40,7 +40,7 @@ To add a task collection,
 - Select **Task collection** in the menu.
 - Give a name to the task collection.
 
-<video autoplay loop width="500" controls>
+<video autoplay loop width="800" controls>
   <source src="/img/MOV-Add-Task-Collection.mov" type="video/mp4">
 </video>
 
@@ -77,7 +77,13 @@ In some cases, you may wish to intentionally change the path of a Source (for ex
 
 ## Promoting to Source
 
+- This is the inverse of [Adding a parent folder as a Source](#adding-a-parent-folder-as-a-source). You can promote one or more subfolders under a Source folder to become Sources themselves.
+- To do this, right click on the subfolder(s), and select **Promote to Source**.
+- The original Source will be replaced in the Ritt database.
 
+<video autoplay loop width="800" controls>
+  <source src="/img/MOV-Promote-to-Source.mov" type="video/mp4">
+</video>
 
 
 
