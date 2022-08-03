@@ -58,14 +58,15 @@ permalink: /get-started
 
 ## Activating a tag
 
-- In the tag tree (left panel), navigate to and click on desired tag to activate it.
-- Tagged items will be displayed in the right panel.
-- *Related Tags* are displayed in a section above the tagged items to facilitate navigation. 
- <br/><br/>![Access items](/img/Access-through-tags.png)
- **(UPDATE IMAGE)**
+- In the tag tree (left panel), navigate to and click on a desired tag to activate it.
+- Tagged items and tasks will be displayed in the right panel.
+- You can also view *Related Tags* (if available) through a dropdown menu next to the Search bar.
+ <br/><br/>![Activated tag](/img/Activated-tag.png)
+
 
 ## Activating multiple tags
 
 - Double click on another tag under *Related Tags* to activate it. You will now see items that are tagged to both tags.
-- Alternatively, in the tag tree on the left pane, Ctrl + click (or middle mouse button click) on another tag to activate it. <br/><br/>![Access through multiple tags](/img/Access-through-multiple-tags.png)
-**(UPDATE IMAGE)**
+- Alternatively, in the tag tree on the left pane, Ctrl + click (or middle mouse button click) on another tag to activate it. <br/><br/>![Activated multiple tags](/img/Activated-multiple-tags.png)
+
+

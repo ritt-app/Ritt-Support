@@ -47,7 +47,7 @@ To add a task collection,
 
 ## Viewing all Sources
 
-- Click on the **Home** button <img src="../img/Button-Home.PNG" alt="Home Button" width="40" style="padding: 0px 3px 0px 3px"/> to view all source folders and task collections.
+- Click on the **Home** button <img src="../img/Button-Home.PNG" alt="Home Button" width="40" style="padding: 0px 3px 0px 3px"/> to view all Source folders and task collections.
 
 
 ## Changing the path of a Source
@@ -56,7 +56,7 @@ If a Source folder is moved to another location in your computer, Ritt may not b
 - Click on the circle to update the Source path.<br/><br/>![Please Update Source path](/img/Please-Update-Source-path.png) <br/><br/>
 
 
-In some cases, you may wish to intentionally change the path of a Source (for example, if you have two copies of the same Source folder in different locations and need to switch between them periodically). In this case, follow the steps below.
+In some rare cases, you may wish to intentionally change the path of a Source (for example, if you have two copies of the same Source folder in different locations and need to switch between them periodically). In this case, follow the steps below.
 
 - Right click on a Source and select **Change Source path**. Select the new location of the Source.
 - All tags relative to the original Source will not be affected (i.e., they will be migrated over to the "new" Source).
