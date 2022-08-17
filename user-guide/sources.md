@@ -17,20 +17,22 @@ A Source is a folder that contains items which you wish to organize using Ritt. 
 
 You can add multiple sources into a single Ritt database.
 
+---
+
 ## Adding a local folder as a Source
 
 To add a Local folder as a Source,
 
 - Click on the **Add Source** button.
 - Select **Local folder** in the menu. 
-- Select a folder which you wish to organize better with Ritt.
-
-<video autoplay loop width="800" controls>
-  <source src="/img/MOV-Add-New-Source.mov" type="video/mp4">
-</video>
+- Select a folder which you wish to organize better with Ritt.<br/><br/>
+  <video autoplay loop width="800" controls>
+    <source src="/img/MOV-Add-New-Source.mov" type="video/mp4">
+  </video>
 
 **Note:** You cannot add a subfolder of a Source as a separate Source. However, if you wish, you could [promote it to a Source](#promoting-to-source).
 
+---
 
 ## Adding a task collection
 
@@ -38,17 +40,18 @@ To add a task collection,
 
 - Click on the **Add Source** button.
 - Select **Task collection** in the menu.
-- Give a name to the task collection.
+- Give a name to the task collection.<br/><br/>
+  <video autoplay loop width="800" controls>
+    <source src="/img/MOV-Add-Task-Collection.mov" type="video/mp4">
+  </video>
 
-<video autoplay loop width="800" controls>
-  <source src="/img/MOV-Add-Task-Collection.mov" type="video/mp4">
-</video>
-
+---
 
 ## Viewing all Sources
 
 - Click on the **Home** button <img src="../img/Button-Home.PNG" alt="Home Button" width="40" style="padding: 0px 3px 0px 3px"/> to view all Source folders and task collections.
 
+---
 
 ## Changing the path of a Source
 
@@ -61,12 +64,14 @@ In some rare cases, you may wish to intentionally change the path of a Source (f
 - Right click on a Source and select **Change Source path**. Select the new location of the Source.
 - All tags relative to the original Source will not be affected (i.e., they will be migrated over to the "new" Source).
 
+---
 
 ## Removing Source(s)
 
 - Right click on a Source and select **Remove Source**.
 - Removing a Source will remove it from the current Ritt database. The actual folder and the subfolders and files within will not be affected.
 
+---
 
 ## Adding a parent folder as a Source
 
@@ -74,16 +79,16 @@ In some rare cases, you may wish to intentionally change the path of a Source (f
 - The parent folder will now appear as the main Source, replacing all the previous Sources which were subfolders of the parent folder.
 - All existing tags associated with the items in the subfolders will not be affected.
 
+---
 
 ## Promoting to Source
 
 - This is the inverse of [Adding a parent folder as a Source](#adding-a-parent-folder-as-a-source). You can promote one or more subfolders under a Source folder to become Sources themselves.
 - To do this, right click on the subfolder(s), and select **Promote to Source**.
-- The original Source will be replaced in the Ritt database.
-
-<video autoplay loop width="800" controls>
-  <source src="/img/MOV-Promote-to-Source.mov" type="video/mp4">
-</video>
+- The original Source will be replaced in the Ritt database.<br/><br/>
+  <video autoplay loop width="800" controls>
+    <source src="/img/MOV-Promote-to-Source.mov" type="video/mp4">
+  </video>
 
 
 

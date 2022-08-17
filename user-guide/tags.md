@@ -6,40 +6,90 @@ nav_order: 20
 permalink: /user-guide/tags
 ---
 
+
+
 # Tags
-Tags 🏷️ are located on the left column which identifies and classifies different files and folders. Tags can be added using the add tag button by selecting an existing tag and clicking the button which will create another tag at the same level. Clicking the add tag button without any tag selected will create a main tag. Alternatively, dragging the add tag button to existing tag will create a child tag.
 
-## Tagging files
+## Adding a new tag
 
-Files and folders can be tagged by selecting them and clicking on the tag option and every file can be tagged using many different tags. Selecting tagged files will show a tag icon on the very right side and the tag(s) that they are tagged to indicated by the blue pin icon. A file can be tagged to as many icons as you would like, but only the first three icons will be visible. Multiple files can be selected at once by holding CTRL or the middle mouse button and be tagged to many tags at once.
+- Click on the **Add Tag** <img src="../img/Button-Add-Tag.PNG" alt="Add Tag Button" width="50" style="padding: 0px 3px 0px 3px"/> button to add a new tag.
+- Enter a suitable name for the new tag. <br/><br/>![Add Tag](/img/Add-Tag.png)<br/><br/>
+- After the first tag has been created, you can also add new tags by dragging and dropping the **Add Tag** button to a desired position in the list of existing tags.<br/><br/>
+    <video autoplay loop width="500" controls>
+    <source src="/img/MOV-Drag-Drop-New-Tag.mov" type="video/mp4">
+    </video>
 
-If the file is not directly tagged, but one or more of it's parent files are tagged, it will display a smaller pin icon on the left of the regular blue pin icon.
+---
 
-Dragging a file into an existing tag will create a child tag with the same name and cause the file to be automatically tagged.
+## Tagging files, folders, or tasks
 
-## Tag trees
+- Navigate to and select the files, folders or tasks that you wish to tag.
+- Tag the item by clicking on the empty circle next to the tag. This creates a *direct* tag. <br/><br/>![Tag File](/img/Tag-File.png)<br/><br/>
 
-A hierarchical division of tags which are color coded. Selecting a parent tag will show all the children tag contained within itself, as well as any files that are tagged.
+When you tag a folder, all items within that folder become *indirectly* tagged to that tag. In the example below, the folder "Market research" is directly tagged to <mark style="background-color: #FFF0EE">Planning</mark>, but because it is also a subfolder of "Project A" (which is tagged to <mark style="background-color: #FFF0EE">Projects &#x25B6; A</mark>), it will also be indirectly tagged to <mark style="background-color: #FFF0EE">Projects &#x25B6; A</mark>. <br/><br/>![Direct and indirect tags](/img/Direct-vs-indirect-tags.png)
 
-## Search tags
+---
 
-Using the search function will perform a greedy search to show all relevant tags.
+## Creating nested tags
 
-## Changing icons
+- When you create many tags, you may want to organize the tags hierarchically.
+- Drag and drop children tags into parent tags.<br/><br/>
+    <video autoplay loop width="500" controls>
+    <source src="/img/MOV-Drag-Children-to-Parent-Tag.mov" type="video/mp4">
+    </video>
 
-Right click on a tag to enable the option to change icons, which are chosen from the windows emoji page.
+---
+
+## Tag icon and attributes
+
+- Right click on a tag and select **Icon and Attributes**.
+- Here you can assign an icon (emoji) to your tag.
+- Check the attribute **Badge** to show the tag icon in front of all items with that tag.
+- Check the attribute **Skip-Level** to include and show all items tagged to the children tag(s) of the selected tag.<br/><br/>![Icon and attributes](/img/Icon-and-attributes.png)
+
+---
+
+## Renaming, Duplicating, or Removing tags
+
+- To rename a tag, right click on the tag and select **Rename**, or hit the `F2` key on your keyboard.
+- To duplicate a tag, right click on the tag and select **Duplicate**.
+- To remove a tag, right click on the tag and select **Delete**, or hit the `DELETE` key on your keyboard.
+
+---
+
+## Mirror tags
+
+- To create a mirror tag, simply drag and drop the item (e.g., a file, folder, or task) to a desired location on the left pane. 
+
+This will create a tag with the same name as the item, and the item itself will be tagged to this new tag. If a mirror tag is created out of a folder, any items within the folder will also be indirectly tagged to the mirror tag.<br/>
+<video autoplay loop width="800" controls>
+<source src="/img/MOV-Add-Mirror-Tag.mov" type="video/mp4">
+</video>
+
+---
+
+## Related tags
+
+Simply speaking, related tags are tags which have common items with currently activated tag(s). This feature helps you to quickly locate the files you are looking for by "narrowing your search".
+
+After [activating one or more tags](/get-started#activating-a-tag), you will see a button <img src="../img/Button-Related-Tags.PNG" alt="Related Tags Button" width="60" style="padding: 0px 3px 0px 3px"/> next to the Search bar if related tags are available. (The number in brackets is the number of related tags available.)
+
+- Click on this button to show the related tags.<br/><br/>![Related tags 1](/img/Related-tags-1.png)<br/><br/>
+
+- Select a related tag, and that tag will also be activated alongside any others that have already been activated. In the main panel, you will see items which are tagged to all the activated tags.<br/><br/>![Related tags 2](/img/Related-tags-2.png)<br/><br/>
+
+---
+
+## Tag union vs. intersection
+
+xxx
+
+---
+
+## Show / Select tags
+
+xxx
 
 
-## Tag union
-Similar to selecting multiple files using CTRL or middle mouse button, multiple tags can be selected at once using CTRL as well. Using the union/intersection button, select the union option to view files tagged to one or more tags. Select the intersection option to view files tagged to all tags.
 
-## Relevant tags
-A tagged file having child or parent files tagged to another tag will cause both tags to be relevant to each other. Selecting any tags will show any relevant tags being bolded or the show relevant option can be used with a right click. Selecting the relevant tags button will only show the relevant tags.
 
-## Editing tag trees
-
-Click and drag a tag at any layer to insert the tag (with all of its children) between any two tags at any layer. You may also move tags into other tags, which causes them to become child tags. Note that you may not move tags to become base tags, but you can insert them above the current base tag to form new base tags.
-
-## Duplicating files
-
-Creates an exact duplicate file which contains the same base tagged file and tagged child files.
