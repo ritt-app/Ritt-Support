@@ -12,7 +12,7 @@ permalink: /user-guide/tags
 
 ## Adding a new tag
 
-- Click on the **Add Tag** <img src="../img/Button-Add-Tag.PNG" alt="Add Tag Button" width="50" style="padding: 0px 3px 0px 3px"/> button to add a new tag.
+- Click on the **Add Tag** <img src="../img/Button-Add-Tag.png" alt="Add Tag Button" width="50" style="padding: 0px 3px 0px 3px"/> button to add a new tag.
 - Enter a suitable name for the new tag. <br/><br/>![Add Tag](../img/Add-Tag.png)<br/><br/>
 - After the first tag has been created, you can also add new tags by dragging and dropping the **Add Tag** button to a desired position in the list of existing tags.<br/><br/>
     <video autoplay loop width="500" controls>
@@ -72,7 +72,7 @@ This will create a tag with the same name as the item, and the item itself will 
 
 Simply speaking, related tags are tags which have common items with currently activated tag(s). This feature helps you to quickly locate the files you are looking for by "narrowing your search".
 
-After [activating one or more tags](/get-started#activating-a-tag), you will see a button <img src="../img/Button-Related-Tags.PNG" alt="Related Tags Button" width="60" style="padding: 0px 3px 0px 3px"/> next to the Search bar if related tags are available. (The number in brackets is the number of related tags available.)
+After [activating one or more tags](/get-started#activating-a-tag), you will see a button <img src="../img/Button-Related-Tags.png" alt="Related Tags Button" width="60" style="padding: 0px 3px 0px 3px"/> next to the Search bar if related tags are available. (The number in brackets is the number of related tags available.)
 
 - Click on this button to show the related tags.<br/><br/>![Related tags 1](../img/Related-tags-1.png)<br/><br/>
 

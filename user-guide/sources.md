@@ -49,7 +49,7 @@ To add a task collection,
 
 ## Viewing all Sources
 
-- Click on the **Home** button <img src="../img/Button-Home.PNG" alt="Home Button" width="40" style="padding: 0px 3px 0px 3px"/> to view all Source folders and task collections.
+- Click on the **Home** button <img src="../img/Button-Home.png" alt="Home Button" width="40" style="padding: 0px 3px 0px 3px"/> to view all Source folders and task collections.
 
 ---
 
