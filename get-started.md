@@ -34,7 +34,7 @@ permalink: /get-started
 
 - Similar to File Explorer.
 - Double click on a folder to navigate inside, double click on a file to open it.
-- Click on any folder in the Address bar for quick navigation. Scroll wheel can be used to scroll horizontally.<br/><br/>![Navigation](/img/Navigation-AddressBar.png)
+- Click on any folder in the Address bar for quick navigation. The scroll wheel on your mouse can be used to scroll horizontally.<br/><br/>![Navigation](/img/Navigation-AddressBar.png)
 
 ---
 

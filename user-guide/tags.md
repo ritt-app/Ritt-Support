@@ -40,6 +40,35 @@ When you tag a folder, all items within that folder become *indirectly* tagged t
 
 ---
 
+## Creating a tag out of an item
+
+Sometimes, you may wish to turn an existing item (e.g., a file or a task) into a tag.
+
+- Drag and drop the item to a desired position in the tag tree on the left pane. This will create a tag with the same name as the item, and the item itself will be tagged to this new tag.
+
+(insert video)
+
+Note: Renaming this tag will not affect the original name of the item.
+
+Creating a tag out of a **folder** in this manner will create a [mirror tag](#creating-mirror-tags) with some special properties (see next section).
+
+---
+
+## Creating mirror tags
+
+(NOTE: WHen you select a mirror tag, it shows the contents of a folder. Mirror tags only for folders. Renaming the mirror tag doesn't affect the name of the folder. QUick way of creating a normal tag out of an item - drag and drop the item onto left pane. When a mirror tag is selected, right click drop down will show things like "Add folder", 'cause Ritt knows where to add it to. Address bar also shows up.)
+
+Mirror tags are created by dragging and dropping a **folders** onto the tag pane. 
+
+- To create a mirror tag, simply drag and drop the folder to a desired location on the left pane. 
+
+This will create a tag with the same name as the item, and the item itself will be tagged to this new tag. If a mirror tag is created out of a folder, any items within the folder will also be indirectly tagged to the mirror tag.<br/>
+<video autoplay loop width="800" controls>
+<source src="/img/MOV-Add-Mirror-Tag.mov" type="video/mp4">
+</video>
+
+---
+
 ## Tag icon and attributes
 
 - Right click on a tag and select **Icon and Attributes**.
@@ -57,20 +86,11 @@ When you tag a folder, all items within that folder become *indirectly* tagged t
 
 ---
 
-## Mirror tags
-
-- To create a mirror tag, simply drag and drop the item (e.g., a file, folder, or task) to a desired location on the left pane. 
-
-This will create a tag with the same name as the item, and the item itself will be tagged to this new tag. If a mirror tag is created out of a folder, any items within the folder will also be indirectly tagged to the mirror tag.<br/>
-<video autoplay loop width="800" controls>
-<source src="/img/MOV-Add-Mirror-Tag.mov" type="video/mp4">
-</video>
-
----
-
 ## Related tags
 
-Simply speaking, related tags are tags which have common items with currently activated tag(s). This feature helps you to quickly locate the files you are looking for by "narrowing your search".
+(NOTE: Talk about tag bar. Maybe move activating tags over.)
+
+Related tags are tags which have common items with currently activated tag(s). This feature helps you to quickly locate the files you are looking for by "narrowing your search".
 
 After [activating one or more tags](/get-started#activating-a-tag), you will see a button <img src="../img/Button-Related-Tags.png" alt="Related Tags Button" width="60" style="padding: 0px 3px 0px 3px"/> next to the Search bar if related tags are available. (The number in brackets is the number of related tags available.)
 

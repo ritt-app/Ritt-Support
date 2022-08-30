@@ -7,8 +7,20 @@ permalink: /user-guide/sources
 ---
 
 # Sources
+{: .no_toc }
 
-## Sources
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
+---
+
+## Types of Sources
 
 A Source is a folder that contains items which you wish to organize using Ritt. There are two kinds of Sources.
 
