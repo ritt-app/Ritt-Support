@@ -70,7 +70,7 @@ permalink: /get-started
 
 - In the tag tree (left panel), navigate to and click on a desired tag to activate it.
 - Tagged items and tasks will be displayed in the right panel.
-- You can also view *Related Tags* (if available) through a dropdown menu next to the Search bar.
+- You can also view [*Related Tags*](/user-guide/tags/#related-tags) (if available) through a dropdown menu next to the Search bar.
  <br/><br/>![Activated tag](/img/Activated-tag.png)
 
 ---

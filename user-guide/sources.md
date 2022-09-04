@@ -8,6 +8,7 @@ permalink: /user-guide/sources
 
 # Sources
 {: .no_toc }
+<br/>
 
 <details open markdown="block">
   <summary>
