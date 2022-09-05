@@ -26,7 +26,7 @@ permalink: /user-guide/tags
 
 - Click on the **Add Tag** <img src="../img/Button-Add-Tag.png" alt="Add Tag Button" width="50" style="padding: 0px 3px 0px 3px"/> button to add a new tag.
 - Enter a suitable name for the new tag. <br/><br/>![Add Tag](../img/Add-Tag.png)<br/><br/>
-- After the first tag has been created, you can also add new tags by dragging and dropping the **Add Tag** button to a desired position in the list of existing tags.<br/><br/>
+- You can also add new tags by dragging and dropping the **Add Tag** button to a desired position in the list of existing tags.<br/><br/>
     <video autoplay loop width="500" controls>
     <source src="../img/MOV-Drag-Drop-New-Tag.mov" type="video/mp4">
     </video>
@@ -35,7 +35,7 @@ permalink: /user-guide/tags
 
 ## Tagging files, folders, or tasks
 
-- Navigate to and select the files, folders or tasks that you wish to tag.
+- Navigate to and select the file(s), folder(s) or task(s) that you wish to tag.
 - Tag the item by clicking on the empty circle next to the tag. This creates a *direct* tag. <br/><br/>![Tag File](../img/Tag-File.png)<br/><br/>
 
 When you tag a folder, all items within that folder become *indirectly* tagged to that tag. In the example below, the folder "Market research" is directly tagged to <mark style="background-color: #FFF0EE">Planning</mark>, but because it is also a subfolder of "Project A" (which is tagged to <mark style="background-color: #FFF0EE">Projects &#x25B6; A</mark>), it will also be indirectly tagged to <mark style="background-color: #FFF0EE">Projects &#x25B6; A</mark>. <br/><br/>![Direct and indirect tags](../img/Direct-vs-indirect-tags.png)
@@ -44,7 +44,7 @@ When you tag a folder, all items within that folder become *indirectly* tagged t
 
 ## Creating nested tags
 
-- When you create many tags, you may want to organize the tags hierarchically.
+- When you create many tags, you may want to organize the tags hierarchically. This is a unique feature of Ritt.
 - Drag and drop children tags into parent tags.<br/><br/>
     <video autoplay loop width="500" controls>
     <source src="../img/MOV-Drag-Children-to-Parent-Tag.mov" type="video/mp4">
@@ -55,15 +55,15 @@ When you tag a folder, all items within that folder become *indirectly* tagged t
 ## Activating a tag
 
 - In the tag tree (left panel), navigate to and click on a desired tag to activate it.
-- Tagged items and tasks will be displayed in the right panel.
-- You can also view [*Related Tags*](#related-tags) (if available) through a dropdown menu next to the Search bar.
+- Tagged items will be displayed in the right panel.
+- You can also view [*Related Tags*](#related-tags) (if any) through a dropdown menu next to the Search bar.
  <br/><br/>![Activated tag](../img/Activated-tag.png)
 
 ---
 
 ## Activating multiple tags
 
-- Double click on another tag under *Related Tags* to activate it. You will now see items that are tagged to both tags.
+- Click on another tag under *Related Tags* to activate it. You will now see items that are tagged to both tags.
 - Alternatively, in the tag tree on the left pane, Ctrl + click (or middle mouse button click) on another tag to activate it. <br/><br/>![Activated multiple tags](../img/Activated-multiple-tags.png)
 
 ---
@@ -74,12 +74,12 @@ Sometimes, you may wish to turn an existing item (e.g., a folder, a file or a ta
 
 - Drag and drop the item to a desired position in the tag tree on the left pane. This will create a tag with the same name as the item, and the item itself will be tagged to this new tag. 
 
-(Note: Renaming this tag will not affect the original name of the item.)
+(Note: Renaming or deleting this tag will not affect the original item.)
 
 
 ### Creating mirror tags
 
-Creating a tag out of a **folder** in this manner will create a **mirror tag** with some special properties.<br/>
+Creating a tag out of a **folder** or a **task collection** in this manner will create a **mirror tag** with some special properties.<br/>
 <video autoplay loop width="800" controls>
 <source src="../img/MOV-Add-Mirror-Tag.mov" type="video/mp4">
 </video>
@@ -134,9 +134,9 @@ When you [activate multiple tags](#activating-multiple-tags), you can decide if 
 
 The default mode is the intersection mode. To toggle between the two modes, click on the button with two circles at the top right-hand corner of the tag pane.
 
-- Click on <img src="../img/Button-Union.png" alt="Add Tag Button" width="50" style="padding: 0px 3px 0px 3px"/> to switch to the union mode.
+- Click on <img src="../img/Button-Union.png" alt="Union Button" width="50" style="padding: 0px 3px 0px 3px"/> to switch to the union mode.
 
-- Click on <img src="../img/Button-Intersection.png" alt="Add Tag Button" width="50" style="padding: 0px 3px 0px 3px"/> to switch to the intersection mode.
+- Click on <img src="../img/Button-Intersection.png" alt="Intersection Button" width="50" style="padding: 0px 3px 0px 3px"/> to switch to the intersection mode.
 
 ![Intersection vs Union](../img/Intersection-vs-Union.png)
 
