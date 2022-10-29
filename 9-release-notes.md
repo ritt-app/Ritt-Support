@@ -1,11 +1,11 @@
 ---
 layout: default
-title: What's new?
-nav_order: 5
-permalink: /whats-new
+title: Release Notes
+nav_order: 9
+permalink: /release-notes
 ---
 
-# What's new?
+# Release Notes
 
 ## V0.6
 - Task management

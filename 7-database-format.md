@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Database format
-parent: User Guide
-nav_order: 100
-permalink: /user-guide/database-format
+title: The Ritt Database
+nav_order: 7
+permalink: /database-format
 ---
 
 # The Ritt Database

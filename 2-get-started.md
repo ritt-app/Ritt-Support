@@ -6,6 +6,16 @@ permalink: /get-started
 ---
 
 # Get Started
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ## Compatibility and Download
 
@@ -18,7 +28,7 @@ permalink: /get-started
 
 ## Create a new Ritt database
 
-- Click on the **New** button in the top banner.
+- Click on the **New** button in the top banner. <br/><img src="img/New-Button.png" alt="New Button" width="400"/>
 
 ---
 
@@ -32,7 +42,7 @@ permalink: /get-started
 
 ## Navigation
 
-- Similar to File Explorer.
+- Navigation in Ritt is similar to that in File Explorer.
 - Double click on a folder to navigate inside, double click on a file to open it.
 - Click on any folder in the Address bar for quick navigation. The scroll wheel on your mouse can be used to scroll horizontally.<br/><br/>![Navigation](/img/Navigation-AddressBar.png)
 
@@ -70,7 +80,7 @@ permalink: /get-started
 
 - In the tag tree (left panel), navigate to and click on a desired tag to activate it.
 - Tagged items will be displayed in the right panel.
-- You can also view [*Related Tags*](/user-guide/tags/#related-tags) (if any) through a dropdown menu next to the Search bar.
+- You can also view [*Related Tags*](/tags/related-tags) (if any) through a dropdown menu next to the Search bar.
  <br/><br/>![Activated tag](/img/Activated-tag.png)
 
 ---
@@ -80,4 +90,13 @@ permalink: /get-started
 - Click on another tag under *Related Tags* to activate it. You will now see items that are tagged to both tags.
 - Alternatively, in the tag tree on the left pane, Ctrl + click (or middle mouse button click) on another tag to activate it. <br/><br/>![Activated multiple tags](/img/Activated-multiple-tags.png)
 
+---
 
+## Turning folders into tags (creating mirror tags)
+
+- In Ritt, you can turn existing folders into tags by dragging and dropping a folder into the tag pane. This will create a mirror tag with the same name as the folder. This mirror tag now functions both as a folder and as a tag!<br/>
+<video autoplay loop width="800" controls>
+<source src="../img/MOV-Add-Mirror-Tag.mov" type="video/mp4">
+</video>
+
+Find out more about mirror tags [here](/tags/creating-a-tag-out-of-an-item#creating-mirror-tags)!
