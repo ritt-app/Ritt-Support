@@ -2,7 +2,7 @@
 layout: default
 title: Renaming a tag
 parent: Tags
-nav_order: 508
+nav_order: 502
 permalink: /tags/renaming-a-tag
 ---
 

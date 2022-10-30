@@ -2,7 +2,7 @@
 layout: default
 title: Activating tags
 parent: Tags
-nav_order: 504
+nav_order: 507
 permalink: /tags/activating-tags
 ---
 

@@ -2,7 +2,7 @@
 layout: default
 title: Dashboard tags
 parent: Tags
-nav_order: 507
+nav_order: 510
 permalink: /tags/dashboard-tags
 ---
 

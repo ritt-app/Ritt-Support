@@ -2,7 +2,7 @@
 layout: default
 title: Tagging files, folders, or tasks
 parent: Tags
-nav_order: 502
+nav_order: 505
 permalink: /tags/tagging-files-folders-or-tasks
 ---
 

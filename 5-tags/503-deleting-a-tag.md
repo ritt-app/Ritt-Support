@@ -2,7 +2,7 @@
 layout: default
 title: Deleting a tag
 parent: Tags
-nav_order: 510
+nav_order: 503
 permalink: /tags/deleting-a-tag
 ---
 

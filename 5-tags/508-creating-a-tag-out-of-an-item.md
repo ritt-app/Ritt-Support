@@ -2,7 +2,7 @@
 layout: default
 title: Creating a tag out of an item / mirror tags
 parent: Tags
-nav_order: 505
+nav_order: 508
 permalink: /tags/creating-a-tag-out-of-an-item
 ---
 

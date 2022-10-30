@@ -2,7 +2,7 @@
 layout: default
 title: Creating nested tags
 parent: Tags
-nav_order: 503
+nav_order: 506
 permalink: /tags/creating-nested-tags
 ---
 

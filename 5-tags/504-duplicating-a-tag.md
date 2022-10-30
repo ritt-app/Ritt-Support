@@ -2,7 +2,7 @@
 layout: default
 title: Duplicating a tag
 parent: Tags
-nav_order: 509
+nav_order: 504
 permalink: /tags/duplicating-a-tag
 ---
 

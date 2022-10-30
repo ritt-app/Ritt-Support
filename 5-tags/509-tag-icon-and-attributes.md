@@ -2,7 +2,7 @@
 layout: default
 title: Tag icon and attributes
 parent: Tags
-nav_order: 506
+nav_order: 509
 permalink: /tags/tag-icon-and-attributes
 ---
 
