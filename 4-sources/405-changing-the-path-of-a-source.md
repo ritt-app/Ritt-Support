@@ -15,4 +15,4 @@ If a Source folder is moved to another location in your computer, Ritt may not b
 In some rare cases, you may wish to intentionally change the path of a Source (for example, if you have two copies of the same Source folder in different locations and need to switch between them periodically). In this case, follow the steps below.
 
 - Right click on a Source and select **Change Source path**. Select the new location of the Source.
-- All tags relative to the original Source will not be affected (i.e., they will be migrated over to the "new" Source).<br/><br/>![Change Source path](../img/Change-Source-path.png)
+- All tags relative to the original Source will not be affected (i.e., they will be migrated over to the "new" Source).<br/><br/>![Change Source path](../img/Change-Source-Path.png)
