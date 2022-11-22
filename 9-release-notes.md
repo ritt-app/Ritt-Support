@@ -7,6 +7,14 @@ permalink: /release-notes
 
 # Release Notes
 
+## V0.7
+- Privacy: Ritt operates completely offline.
+- Related tags flyout
+- New tag attributes: Mirror, Dashboard. Enable new use cases for Ritt
+- Incremental refresh when adding or deleting an item
+- Bug fixed: Reduced performance after long use, among others
+
+
 ## V0.6
 - Task management
 - Relevant tags suggestion
