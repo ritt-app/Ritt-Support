@@ -8,6 +8,8 @@ permalink: /ui-overview
 # User Interface Overview
 <br/>
 
+(Under construction for v0.8)
+
 ![UI Overview](../img/Buttons-Master.png)
 <br/><br/>
 

@@ -7,6 +7,8 @@ permalink: /search
 
 # Search
 
+(Under construction for v0.8)
+
 The Search bar can be found at the top of the main pane.
 
 ![Search Bar](../img/Search-Bar.png)
