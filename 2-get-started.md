@@ -92,9 +92,9 @@ Source(s) will show up on the right (main) pane.
 
 ---
 
-## Turning folders into tags
+## Integrating folders and tags
 
-- In Ritt, you can turn existing folders into tags by dragging and dropping a folder into the tag pane. This folder can now behave like a tag, you can tag items from other locations to it!<br/>
+- In Ritt, you can drag and drop a folder into the tag pane. This folder can now also behave like a tag, you can tag items from other locations to it!<br/>
 <video autoplay loop width="800" controls>
 <source src="../img/MP4-Turning-Folders-Into-Tags-v0.8.mp4" type="video/mp4">
 </video>
