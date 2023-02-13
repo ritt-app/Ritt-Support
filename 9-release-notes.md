@@ -7,7 +7,17 @@ permalink: /release-notes
 
 # Release Notes
 
-## V0.7
+## V0.8 (Jan 2023)
+- Migrate from UWP to Windows App SDK 1.2. Able to launch any file now (e.g. .py, .xaml).
+- Integrate folder tree and tag tree in the left panel. Drag to insert and expand any folder.
+- Can link files or folders with another folder by dragging from Explorer and dropping on Ritt while holding the ALT key. Similar to shortcuts, but with backlinks.
+- Simplify the first launch experience. Ritt launches with a default database and all changes are automatically saved.
+- Improve the performance of viewing large folders and moving/coping files. Uses system UI to display progress.
+- Improve the reliability of tracking file movements, renames, and deletions in Explorer.
+- Integrate out-of-the-box with QuickLook for previewing files.
+- Refresh the general UI.
+
+## V0.7 (Oct 2022)
 - Privacy: Ritt operates completely offline.
 - Related tags flyout
 - New tag attributes: Mirror, Dashboard. Enable new use cases for Ritt
