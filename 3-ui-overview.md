@@ -11,7 +11,7 @@ permalink: /ui-overview
 ![UI Overview](../img/Buttons-Master-v0.8.png)
 <br/><br/>
 
-|<img src="../img/Buttons-Master-1.png" alt="1" width="30" />| Click on the arrows to go backward or forward. |
+|<img src="../img/Buttons-Master-1.png" alt="1" width="30" />| <div style="width:40px">Click on the arrows to go backward or forward. </div>|
 |<img src="../img/Buttons-Master-2.png" alt="2" width="30" />| Click to **refresh** (or press the F5 key). |
 |<img src="../img/Buttons-Master-3.png" alt="3" width="30" />| Click on the **Home** button to view all Source folders and task collections. |
 |<img src="../img/Buttons-Master-4.png" alt="4" width="30" />| Use the **Search** bar to search for folders, files, tags, or tasks in the current view. |

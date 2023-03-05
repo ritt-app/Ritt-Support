@@ -7,6 +7,14 @@ permalink: /release-notes
 
 # Release Notes
 
+## V0.9 (Feb 2023)
+- Track the history of changes to tags and tasks to allow reverting to an earlier state.
+- Display context menu item from Explorer in Ritt. This lets you use your favorite tools such as 7zip directly from Ritt.
+- Recognize Windows shortcut files (.lnk and .url).
+- Migration from text-based format to SQLite database for better scalability. Backward compatible with the old format.
+- Direct download and install option (.msi) with auto-update. See our website for more details.
+- Several critical bug fixes.
+
 ## V0.8 (Jan 2023)
 - Migrate from UWP to Windows App SDK 1.2. Able to launch any file now (e.g. .py, .xaml).
 - Integrate folder tree and tag tree in the left panel. Drag to insert and expand any folder.

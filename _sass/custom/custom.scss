@@ -5,3 +5,8 @@ img {
 	image-rendering: -o-crisp-edges;
 	image-rendering: -webkit-optimize-contrast;
 }
+
+video {
+  width: 100%;
+  height: auto;
+}

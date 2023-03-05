@@ -29,12 +29,14 @@ permalink: /get-started
 
 - Click on the **Add Source** <img src="img/Button-Add-Source.png" alt="Add Source Button" width="50" style="padding: 0px 3px 0px 3px"/> button.
 - Select **Local folder** in the menu. <br/><br/>![Add Source](/img/Add-Source-v0.8.png) <br/><br/>
-- Select a folder which you wish to organize better with Ritt.
+- Select a folder which you wish to organize better with Ritt. 
 
 Source(s) will show up on the right (main) pane.
-<video autoplay loop width="800" controls>
-<source src="../img/MP4-Add-Source-v0.8.mp4" type="video/mp4">
+<video autoplay loop controls>
+  <source src="/img/v0.9-MP4-Add-Source.mp4" type="video/mp4">
 </video>
+
+
 ---
 
 ## Navigation
@@ -50,18 +52,18 @@ Source(s) will show up on the right (main) pane.
 - Click on the **Add Tag** <img src="img/Button-Add-Tag.png" alt="Add Tag Button" width="50" style="padding: 0px 3px 0px 3px"/> button to add a new tag.
 - Enter a suitable name for the new tag. <br/><br/>![Add Tag](/img/Add-Tag-v0.8.png)<br/><br/>
 - After the first tag has been created, you can also add new tags by dragging and dropping the **Add Tag** button to a desired position in the list of existing tags.<br/><br/>
-  <video autoplay loop width="800" controls>
-    <source src="/img/MP4-Drag-Drop-New-Tag-v0.8.mp4" type="video/mp4">
+  <video autoplay loop controls>
+    <source src="/img/v0.9-MP4-Add-Tag-Drag-and-Drop.mp4" type="video/mp4">
   </video>
 
 ---
 
 ## Tagging files/folders
 
-- Navigate to and select the files or folders that you wish to tag.
-- Tag the item by clicking on the empty circle next to the tag. <br/><br/>
-  <video autoplay loop width="800" controls>
-    <source src="/img/MP4-Tag-Item-v0.8.mp4" type="video/mp4">
+- Navigate to and select the file(s) or folder(s) that you wish to tag.
+- Tag the item(s) by clicking on the empty circle next to the tag. <br/><br/>
+  <video autoplay loop controls>
+    <source src="/img/v0.9-MP4-Tagging-an-item.mp4" type="video/mp4">
   </video>
 
 ---
@@ -71,7 +73,7 @@ Source(s) will show up on the right (main) pane.
 - When you create many tags, you may want to organize the tags hierarchically.
 - Drag and drop children tags into parent tags.<br/><br/>
   <video autoplay loop width="800" controls>
-    <source src="/img/MP4-Drag-Children-to-Parent-Tag-v0.8.mp4" type="video/mp4">
+    <source src="/img/v0.9-MP4-Create-nested-tags.mp4" type="video/mp4">
   </video>
 
 ---
@@ -95,7 +97,7 @@ Source(s) will show up on the right (main) pane.
 ## Integrating folders and tags
 
 - In Ritt, you can drag and drop a folder into the tag pane. This folder can now also behave like a tag, you can tag items from other locations to it!<br/>
-<video autoplay loop width="800" controls>
-<source src="../img/MP4-Turning-Folders-Into-Tags-v0.8.mp4" type="video/mp4">
+<video autoplay loop controls>
+<source src="../img/v0.9-MP4-Integrating-folders-and-tags.mp4" type="video/mp4">
 </video>
 
