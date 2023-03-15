@@ -14,7 +14,7 @@ To add a task collection,
 - Select **Task collection** in the menu.
 - Give a name to the task collection.<br/><br/>
   <video autoplay loop width="800" controls>
-    <source src="/img/MOV-Add-Task-Collection.mov" type="video/mp4">
+    <source src="/img/v0.9-MP4-Add-Task-Collection.mp4" type="video/mp4">
   </video>
 
 

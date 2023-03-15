@@ -15,4 +15,4 @@ A Source is a folder that contains items which you wish to organize using Ritt. 
 
 You can add multiple sources into a single Ritt database.
 
-<img src="../img/Types-of-Sources.png" alt="Types of Sources" width="500"/>
+<img src="../img/v0.9-PNG-Types-of-Sources.png" alt="Types of Sources" width="500"/>
