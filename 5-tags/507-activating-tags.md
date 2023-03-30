@@ -7,6 +7,8 @@ permalink: /tags/activating-tags
 ---
 
 # Activating tags
+v0.7
+{: .label .label-blue}
 
 ## Activating a tag
 

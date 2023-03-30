@@ -7,6 +7,8 @@ permalink: /get-started
 
 # Get Started
 {: .no_toc }
+v0.9
+{: .label .label-blue}
 
 <details open markdown="block">
   <summary>

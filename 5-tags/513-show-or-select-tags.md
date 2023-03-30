@@ -7,6 +7,8 @@ permalink: /tags/show-or-select-tags
 ---
 
 # Show / Select tags
+v0.7
+{: .label .label-blue}
 
 - Right click on an item and select **Show tags** to *display* all tags (direct or indirect) associated with this item on the tag pane.
 

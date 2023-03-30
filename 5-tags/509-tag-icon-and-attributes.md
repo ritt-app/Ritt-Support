@@ -7,6 +7,8 @@ permalink: /tags/tag-icon-and-attributes
 ---
 
 # Tag icon and attributes
+v0.7
+{: .label .label-blue}
 
 - Right click on a tag and select **Icon and Attributes**.
 - Here you can assign an icon (emoji) to your tag.

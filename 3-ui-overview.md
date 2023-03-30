@@ -6,7 +6,8 @@ permalink: /ui-overview
 ---
 
 # User Interface Overview
-<br/>
+v0.9
+{: .label .label-blue}
 
 ![UI Overview](../img/Buttons-Master-v0.8.png)
 <br/><br/>

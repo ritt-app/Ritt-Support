@@ -7,6 +7,8 @@ permalink: /tags/intersection-vs-union-mode
 ---
 
 # Intersection mode vs. Union mode
+v0.7
+{: .label .label-blue}
 
 When you [activate multiple tags](/tags/activating-tags#activating-multiple-tags), you can decide if you would like to view tagged items in intersection mode or union mode.
 

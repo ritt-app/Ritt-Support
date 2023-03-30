@@ -67,3 +67,10 @@ gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into t
 
 # Color scheme
 color_scheme: orange
+
+# Callouts
+callouts_level: quiet # or loud
+callouts:
+  note:
+    title: Note
+    color: blue

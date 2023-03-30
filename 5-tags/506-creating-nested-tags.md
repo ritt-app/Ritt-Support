@@ -7,6 +7,8 @@ permalink: /tags/creating-nested-tags
 ---
 
 # Creating nested tags
+v0.7
+{: .label .label-blue}
 
 - When you create many tags, you may want to organize the tags hierarchically. This is a unique feature of Ritt.
 - Drag and drop children tags into parent tags.<br/><br/>

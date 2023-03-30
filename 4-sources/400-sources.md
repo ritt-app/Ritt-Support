@@ -7,5 +7,3 @@ has_children: true
 ---
 
 # Sources
-
-(Under construction for v0.8)

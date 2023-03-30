@@ -7,6 +7,8 @@ permalink: /tags/creating-a-tag-out-of-an-item
 ---
 
 # Creating a tag out of an item
+v0.7
+{: .label .label-blue}
 
 Sometimes, you may wish to turn an existing item (e.g., a folder, a file or a task) into a tag.
 
