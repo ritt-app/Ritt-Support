@@ -1,4 +1,5 @@
-remote_theme: pmarsceill/just-the-docs
+# remote_theme: pmarsceill/just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 title: Ritt Docs
 description: Documentation for Ritt
