@@ -7,6 +7,12 @@ permalink: /release-notes
 
 # Release Notes
 
+## V1.0 (Mar 2023)
+- Advanced search that supports combining tags with logical operations (AND, OR, NOT) and filters (e.g. size>5mb or modified<3days)
+- Related tags displayed next to currently active tags
+- Group by tag combinations (instead of just individual tags)
+- Can assign hotkeys (0-9) to up to 10 tags for quick tagging
+
 ## V0.9 (Feb 2023)
 - Track the history of changes to tags and tasks to allow reverting to an earlier state.
 - Display context menu item from Explorer in Ritt. This lets you use your favorite tools such as 7zip directly from Ritt.
