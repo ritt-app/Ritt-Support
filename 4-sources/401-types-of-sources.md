@@ -7,8 +7,8 @@ permalink: /sources/types-of-sources
 ---
 
 # Types of Sources
-v0.9
-{: .label .label-blue}
+v1.0
+{: .label .label-purple}
 
 A Source is a folder that contains items which you wish to organize using Ritt. There are two kinds of Sources.
 
@@ -17,4 +17,4 @@ A Source is a folder that contains items which you wish to organize using Ritt. 
 
 You can add multiple sources into a single Ritt database.
 
-<img src="../img/v0.9-PNG-Types-of-Sources.png" alt="Types of Sources" width="500"/>
+<img src="../img/v1.0-PNG-Types-of-Sources.png" alt="Types of Sources" width="400"/>
