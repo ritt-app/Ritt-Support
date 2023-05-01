@@ -76,7 +76,7 @@ Source(s) will show up on the right (main) pane.
 - When you create many tags, you may want to organize the tags hierarchically.
 - Drag and drop children tags into parent tags.<br/><br/>
   <video autoplay loop width="800" controls>
-    <source src="/img/v1.0-MP4-Creating-nested-tags.mp4" type="video/mp4">
+    <source src="/img/v1.0-MP4-Creating-Nested-Tags.mp4" type="video/mp4">
   </video>
 
 ---
