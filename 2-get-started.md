@@ -30,12 +30,12 @@ v0.9
 ## Add Source(s) to organize
 
 - Click on the **Add Source** <img src="img/Button-Add-Source.png" alt="Add Source Button" width="50" style="padding: 0px 3px 0px 3px"/> button.
-- Select **Local folder** in the menu. <br/><br/>![Add Source](/img/Add-Source-v0.8.png) <br/><br/>
+- Select **Local folder** in the menu. <br/><br/><img src="img/v1.0-PNG-Add-Source-Local-Folder.png" alt="Add Source" width="400"/><br/><br/>
 - Select a folder which you wish to organize better with Ritt. 
 
 Source(s) will show up on the right (main) pane.
 <video autoplay loop controls>
-  <source src="/img/v0.9-MP4-Add-Source.mp4" type="video/mp4">
+  <source src="/img/v1.0-MP4-Add-Source-Local-Folder.mp4" type="video/mp4">
 </video>
 
 

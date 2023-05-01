@@ -1,0 +1,57 @@
+{
+    "code":  "\nuniform vec4 _Color0;\nuniform vec4 _Color1;\nuniform vec4 _Color2;\nuniform vec4 _Color3;\nuniform float _MidPointX;\nuniform float _MidPointY;\nuniform float _Speed;\n\nvoid main( void )\n{\n    float bx = log(.5)/log(_MidPointX);\n    float by = log(.5)/log(_MidPointY);\n\n    float c = sin(_Speed/8.*_Time)*2.;\n    float offx = sin(_Speed*_Time/6.+_TexCoord.x*c)/5.+sin(_Speed*_Time/5.+_TexCoord.y*c)/5.; \n    float offy = sin(_Speed*_Time/5.+_TexCoord.x*c)/5.+sin(_Speed*_Time/6.+_TexCoord.y*c)/5.; \n    vec4 col1 = mix(_Color0, _Color1, clamp(pow(_TexCoord.x, bx)+offx, 0., 1.));\n    vec4 col2 = mix(_Color2, _Color3, clamp(pow(_TexCoord.x, bx)+offx, 0., 1.));\n    _FragColor = mix(col1, col2, clamp(pow(_TexCoord.y, by)+offy, 0., 1.));\n}\n",
+    "effectDef":  [
+                      {
+                          "name":  "Color0",
+                          "type":  "Color",
+                          "value":  "00EFFF"
+                      },
+                      {
+                          "name":  "Color1",
+                          "type":  "Color",
+                          "value":  "008FFF"
+                      },
+                      {
+                          "name":  "Color2",
+                          "type":  "Color",
+                          "value":  "FFDE39"
+                      },
+                      {
+                          "name":  "Color3",
+                          "type":  "Color",
+                          "value":  "FF00A0"
+                      },
+                      {
+                          "defaultValue":  0.5,
+                          "maxValue":  0.90000000000000002,
+                          "minValue":  0.10000000000000001,
+                          "name":  "MidPointX",
+                          "type":  "double",
+                          "unitType":  "percentage"
+                      },
+                      {
+                          "defaultValue":  0.5,
+                          "maxValue":  0.90000000000000002,
+                          "minValue":  0.10000000000000001,
+                          "name":  "MidPointY",
+                          "type":  "double",
+                          "unitType":  "percentage"
+                      },
+                      {
+                          "defaultValue":  5.0,
+                          "maxValue":  10.0,
+                          "minValue":  0.0,
+                          "name":  "Speed",
+                          "type":  "double"
+                      }
+                  ],
+    "height":  1080,
+    "name":  "4 Corner Gradient",
+    "signature":  {
+                      "type":  "ES512",
+                      "value":  "MIGIAkIBZByWAyld4gvHwdgfoceXBWw6kcwtEmgR5ho731TANWDP/wHicgzm5CRy7azTShKCjLou1Lb2ey22fsFX1oVYsEMCQgF2EDxu2RAX+9I3gsaPwbB3VEH9pMwUZnzF+spi0lgbojDcrWbk6hwTTyJyywo4ndwzNez6SmbSaOhBQvpmSITTOg=="
+                  },
+    "version":  1.0,
+    "width":  1920,
+    "copyright":  "Copyright � 2023 TechSmith Corporation. All rights reserved."
+}
