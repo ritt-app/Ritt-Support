@@ -7,6 +7,12 @@ permalink: /release-notes
 
 # Release Notes
 
+## V1.1 (May 2023)
+- The launch of our dedicated cloud service: Ritt Cloud. Ritt Cloud lets you sync your tags and tasks across multiple devices with ease.
+- Search filters such as 'task' and 'tagged' now recursively search within folders. For example, searching for 'task' from Home will return all tasks in your database.
+- Organize Settings by category and merged several small menu items such as Help and About into Settings.
+- Modernized in-app notification UI.
+
 ## V1.0 (Mar 2023)
 - Advanced search that supports combining tags with logical operations (AND, OR, NOT) and filters (e.g. size>5mb or modified<3days)
 - Related tags displayed next to currently active tags
