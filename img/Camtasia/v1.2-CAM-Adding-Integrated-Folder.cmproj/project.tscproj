@@ -1,0 +1,2505 @@
+{
+  "title" : "",
+  "description" : "",
+  "author" : "",
+  "targetLoudness" : -18.0,
+  "shouldApplyLoudnessNormalization" : true,
+  "videoFormatFrameRate" : 30,
+  "audioFormatSampleRate" : 44100,
+  "allowSubFrameEditing" : false,
+  "width" : 828.0,
+  "height" : 548.0,
+  "version" : "7.0",
+  "editRate" : 705600000,
+  "authoringClientName" :  {
+    "name" : "Camtasia",
+    "platform" : "Mac",
+    "version" : "2023.1.0"
+  },
+  "sourceBin" : [
+    {
+      "id" : 1,
+      "src" : "./media/1688569518.762533/rectangulartiletransparent.png",
+      "rect" : [0, 0, 1240, 600],
+      "lastMod" : "20190630T034858",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 600,
+          "trackRect" : [0, 0, 1240, 600],
+          "sampleRate" : 0,
+          "bitDepth" : 0,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20230705T145907.726849"
+      }
+    },
+    {
+      "id" : 2,
+      "src" : "./recordings/1688569518.763168/Rec 7-5-2023.trec",
+      "rect" : [0, 0, 828, 548],
+      "lastMod" : "20230705T150242",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 65384],
+          "type" : 0,
+          "editRate" : 600,
+          "trackRect" : [0, 0, 828, 548],
+          "sampleRate" : "47443/10000",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "Rec 7-5-2023.trec;2b7b6a05-7a1f-11e2-83d0-0017f200be7f;2b7b6a06-7a1f-11e2-83d0-0017f200be7f;2b7b6a07-7a1f-11e2-83d0-0017f200be7f;2b7b6a08-7a1f-11e2-83d0-0017f200be7f;2b7b6a0a-7a1f-11e2-83d0-0017f200be7f;2b7b6af0-7a1f-11e2-83d0-0017f200be7f;2b7b6af1-7a1f-11e2-83d0-0017f200be7f;2b7b6af2-7a1f-11e2-83d0-0017f200be7f;2b7b6af3-7a1f-11e2-83d0-0017f200be7f;2b7b6af5-7a1f-11e2-83d0-0017f200be7f;2b7b6af6-7a1f-11e2-83d0-0017f200be7f;2b7b6af7-7a1f-11e2-83d0-0017f200be7f;2b7b6af8-7a1f-11e2-83d0-0017f200be7f;2b7b6af9-7a1f-11e2-83d0-0017f200be7f;2b7b6afa-7a1f-11e2-83d0-0017f200be7f;2b7b6afb-7a1f-11e2-83d0-0017f200be7f;2b7b6afc-7a1f-11e2-83d0-0017f200be7f;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20230705T150242.416092"
+      }
+    }
+  ],
+  "timeline" : {
+    "id" : 3,
+    "sceneTrack" : {
+      "scenes" : [
+        {
+          "csml" : {
+            "tracks" : [
+              {
+                "trackIndex" : 0,
+                "medias" : [
+                  {
+                    "id" : 4,
+                    "_type" : "Group",
+                    "parameters" : {
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "volume" : 1.0
+                    },
+                    "tracks" : [
+                      {
+                        "trackIndex" : 0,
+                        "medias" : [
+                          {
+                            "id" : 5,
+                            "_type" : "Callout",
+                            "def" : {
+                                "kind" : "remix",
+                                "shape" : "shape-rectangle",
+                                "style" : "basic",
+                                "fill-color-blue" : {
+                                  "type" : "double",
+                                  "defaultValue" : 0.933333333333333,
+                                  "interp" : "linr"
+                                },
+                                "fill-color-green" : {
+                                  "type" : "double",
+                                  "defaultValue" : 0.941176470588235,
+                                  "interp" : "linr"
+                                },
+                                "fill-color-opacity" : {
+                                  "type" : "double",
+                                  "defaultValue" : 1.0,
+                                  "interp" : "linr"
+                                },
+                                "fill-color-red" : {
+                                  "type" : "double",
+                                  "defaultValue" : 1.0,
+                                  "interp" : "linr"
+                                },
+                                "height" : {
+                                  "type" : "double",
+                                  "defaultValue" : 548.0,
+                                  "interp" : "linr"
+                                },
+                                "stroke-color-blue" : {
+                                  "type" : "double",
+                                  "defaultValue" : 1.0,
+                                  "interp" : "linr"
+                                },
+                                "stroke-color-green" : {
+                                  "type" : "double",
+                                  "defaultValue" : 1.0,
+                                  "interp" : "linr"
+                                },
+                                "stroke-color-opacity" : {
+                                  "type" : "double",
+                                  "defaultValue" : 1.0,
+                                  "interp" : "linr"
+                                },
+                                "stroke-color-red" : {
+                                  "type" : "double",
+                                  "defaultValue" : 1.0,
+                                  "interp" : "linr"
+                                },
+                                "stroke-width" : {
+                                  "type" : "double",
+                                  "defaultValue" : 0.0,
+                                  "interp" : "linr"
+                                },
+                                "width" : {
+                                  "type" : "double",
+                                  "defaultValue" : 828.0,
+                                  "interp" : "linr"
+                                },
+                                "fill-style" : "solid",
+                                "stroke-style" : "solid"
+                            },
+                            "attributes" : {
+                              "ident" : "",
+                              "autoRotateText" : true
+                            },
+                            "parameters" : {
+                              "geometryCrop0" : {
+                                "type" : "double",
+                                "defaultValue" : 0.0,
+                                "interp" : "eioe"
+                              },
+                              "geometryCrop1" : {
+                                "type" : "double",
+                                "defaultValue" : 0.0,
+                                "interp" : "eioe"
+                              },
+                              "geometryCrop2" : {
+                                "type" : "double",
+                                "defaultValue" : 0.0,
+                                "interp" : "eioe"
+                              },
+                              "geometryCrop3" : {
+                                "type" : "double",
+                                "defaultValue" : 0.0,
+                                "interp" : "eioe"
+                              }
+                            },
+                            "effects" : [
+
+                            ],
+                            "start" : 0,
+                            "duration" : 1411200000,
+                            "mediaStart" : 0,
+                            "mediaDuration" : 1411200000,
+                            "scalar" : 1,
+                            "metadata" : {
+                              "AppliedThemeId" : "",
+                              "clipSpeedAttribute" : false,
+                              "default-anchor0" : 0.0,
+                              "default-anchor1" : 0.0,
+                              "default-anchor2" : 0.0,
+                              "default-callout-fill-color" : "(255,255,255,255)",
+                              "default-height" : 180.0,
+                              "default-rotation0" : 0.0,
+                              "default-rotation1" : 0.0,
+                              "default-rotation2" : 0.0,
+                              "default-scale" : "1",
+                              "default-scale0" : 1.0,
+                              "default-scale1" : 1.0,
+                              "default-scale2" : 1.0,
+                              "default-shear0" : 0.0,
+                              "default-shear1" : 0.0,
+                              "default-shear2" : 0.0,
+                              "default-translation0" : 0.0,
+                              "default-translation1" : 0.0,
+                              "default-translation2" : 0.0,
+                              "default-width" : 240.0,
+                              "effectApplied" : "none"
+                            },
+                            "animationTracks" : {
+
+                            }
+                          }
+                        ],
+                          "ident" : "",
+                          "audioMuted" : false,
+                          "videoHidden" : false,
+                          "magnetic" : false,
+                          "matte" : 0,
+                          "solo" : false,
+                          "metadata" : {
+                            "IsLocked" : "False",
+                            "trackHeight" : "54"
+                          }
+                      },
+                      {
+                        "trackIndex" : 1,
+                        "medias" : [
+                          {
+                            "id" : 6,
+                            "_type" : "Group",
+                            "parameters" : {
+                              "scale0" : {
+                                "type" : "double",
+                                "defaultValue" : 0.43125,
+                                "interp" : "eioe"
+                              },
+                              "scale1" : {
+                                "type" : "double",
+                                "defaultValue" : 0.43125,
+                                "interp" : "eioe"
+                              },
+                              "geometryCrop0" : {
+                                "type" : "double",
+                                "defaultValue" : 0.0,
+                                "interp" : "eioe"
+                              },
+                              "geometryCrop1" : {
+                                "type" : "double",
+                                "defaultValue" : 0.0,
+                                "interp" : "eioe"
+                              },
+                              "geometryCrop2" : {
+                                "type" : "double",
+                                "defaultValue" : 0.0,
+                                "interp" : "eioe"
+                              },
+                              "geometryCrop3" : {
+                                "type" : "double",
+                                "defaultValue" : 0.0,
+                                "interp" : "eioe"
+                              },
+                              "volume" : 1.0
+                            },
+                            "tracks" : [
+                              {
+                                "trackIndex" : 0,
+                                "medias" : [
+                                  {
+                                    "id" : 7,
+                                    "_type" : "Group",
+                                    "parameters" : {
+                                      "translation0" : {
+                                        "type" : "double",
+                                        "defaultValue" : -685.124944583461,
+                                        "interp" : "eioe"
+                                      },
+                                      "translation1" : {
+                                        "type" : "double",
+                                        "defaultValue" : -152.789985500627,
+                                        "interp" : "eioe"
+                                      },
+                                      "geometryCrop0" : {
+                                        "type" : "double",
+                                        "defaultValue" : 0.0,
+                                        "interp" : "eioe"
+                                      },
+                                      "geometryCrop1" : {
+                                        "type" : "double",
+                                        "defaultValue" : 0.0,
+                                        "interp" : "eioe"
+                                      },
+                                      "geometryCrop2" : {
+                                        "type" : "double",
+                                        "defaultValue" : 0.0,
+                                        "interp" : "eioe"
+                                      },
+                                      "geometryCrop3" : {
+                                        "type" : "double",
+                                        "defaultValue" : 0.0,
+                                        "interp" : "eioe"
+                                      },
+                                      "volume" : 1.0
+                                    },
+                                    "tracks" : [
+                                      {
+                                        "trackIndex" : 0,
+                                        "medias" : [
+                                          {
+                                            "id" : 8,
+                                            "_type" : "Callout",
+                                            "def" : {
+                                                "kind" : "remix",
+                                                "shape" : "arrow",
+                                                "style" : "bold",
+                                                "stroke-color-blue" : {
+                                                  "type" : "double",
+                                                  "defaultValue" : 0.325490196078431,
+                                                  "interp" : "linr",
+                                                  "keyframes" : [
+                                                    {
+                                                      "endTime" : 235200000,
+                                                      "time" : 0,
+                                                      "value" : 0.325490196078431,
+                                                      "interp" : "eioe",
+                                                      "duration" : 235200000
+                                                    },
+                                                    {
+                                                      "endTime" : 3516240000,
+                                                      "time" : 3281040000,
+                                                      "value" : 0.325490196078431,
+                                                      "interp" : "eioe",
+                                                      "duration" : 235200000
+                                                    }
+                                                  ]
+                                                },
+                                                "stroke-color-green" : {
+                                                  "type" : "double",
+                                                  "defaultValue" : 0.427450980392157,
+                                                  "interp" : "linr",
+                                                  "keyframes" : [
+                                                    {
+                                                      "endTime" : 235200000,
+                                                      "time" : 0,
+                                                      "value" : 0.427450980392157,
+                                                      "interp" : "eioe",
+                                                      "duration" : 235200000
+                                                    },
+                                                    {
+                                                      "endTime" : 3516240000,
+                                                      "time" : 3281040000,
+                                                      "value" : 0.427450980392157,
+                                                      "interp" : "eioe",
+                                                      "duration" : 235200000
+                                                    }
+                                                  ]
+                                                },
+                                                "stroke-color-opacity" : {
+                                                  "type" : "double",
+                                                  "defaultValue" : 1.0,
+                                                  "interp" : "linr"
+                                                },
+                                                "stroke-color-red" : {
+                                                  "type" : "double",
+                                                  "defaultValue" : 0.972549019607843,
+                                                  "interp" : "linr",
+                                                  "keyframes" : [
+                                                    {
+                                                      "endTime" : 235200000,
+                                                      "time" : 0,
+                                                      "value" : 0.972549019607843,
+                                                      "interp" : "eioe",
+                                                      "duration" : 235200000
+                                                    },
+                                                    {
+                                                      "endTime" : 3516240000,
+                                                      "time" : 3281040000,
+                                                      "value" : 0.972549019607843,
+                                                      "interp" : "eioe",
+                                                      "duration" : 235200000
+                                                    }
+                                                  ]
+                                                },
+                                                "stroke-width" : {
+                                                  "type" : "double",
+                                                  "defaultValue" : 0.0,
+                                                  "interp" : "linr",
+                                                  "keyframes" : [
+                                                    {
+                                                      "endTime" : 235200000,
+                                                      "time" : 0,
+                                                      "value" : 8.0,
+                                                      "interp" : "eioe",
+                                                      "duration" : 235200000
+                                                    }
+                                                  ]
+                                                },
+                                                "tail-x" : {
+                                                  "type" : "double",
+                                                  "defaultValue" : 0.0,
+                                                  "interp" : "eioe"
+                                                },
+                                                "tail-y" : {
+                                                  "type" : "double",
+                                                  "defaultValue" : 0.0,
+                                                  "interp" : "eioe",
+                                                  "keyframes" : [
+                                                    {
+                                                      "endTime" : 235200000,
+                                                      "time" : 0,
+                                                      "value" : 322.983939287625,
+                                                      "interp" : "eioe",
+                                                      "duration" : 235200000
+                                                    },
+                                                    {
+                                                      "endTime" : 3516240000,
+                                                      "time" : 3281040000,
+                                                      "value" : 0.0,
+                                                      "interp" : "eioe",
+                                                      "duration" : 235200000
+                                                    }
+                                                  ]
+                                                },
+                                                "shape-anchor" : "none",
+                                                "shape-tail" : "none",
+                                                "stroke-style" : "solid"
+                                            },
+                                            "attributes" : {
+                                              "ident" : "",
+                                              "autoRotateText" : true
+                                            },
+                                            "parameters" : {
+                                              "translation0" : {
+                                                "type" : "double",
+                                                "defaultValue" : -134.742854242853,
+                                                "interp" : "eioe",
+                                                "keyframes" : [
+                                                  {
+                                                    "endTime" : 235200000,
+                                                    "time" : 0,
+                                                    "value" : -134.742854242853,
+                                                    "interp" : "eioe",
+                                                    "duration" : 235200000
+                                                  },
+                                                  {
+                                                    "endTime" : 3516240000,
+                                                    "time" : 3281040000,
+                                                    "value" : -134.742854242853,
+                                                    "interp" : "eioe",
+                                                    "duration" : 235200000
+                                                  }
+                                                ]
+                                              },
+                                              "translation1" : {
+                                                "type" : "double",
+                                                "defaultValue" : 0.0,
+                                                "interp" : "eioe",
+                                                "keyframes" : [
+                                                  {
+                                                    "endTime" : 235200000,
+                                                    "time" : 0,
+                                                    "value" : 0.0,
+                                                    "interp" : "eioe",
+                                                    "duration" : 235200000
+                                                  },
+                                                  {
+                                                    "endTime" : 3516240000,
+                                                    "time" : 3281040000,
+                                                    "value" : 0.0,
+                                                    "interp" : "eioe",
+                                                    "duration" : 235200000
+                                                  }
+                                                ]
+                                              },
+                                              "geometryCrop0" : {
+                                                "type" : "double",
+                                                "defaultValue" : 0.0,
+                                                "interp" : "eioe"
+                                              },
+                                              "geometryCrop1" : {
+                                                "type" : "double",
+                                                "defaultValue" : 0.0,
+                                                "interp" : "eioe"
+                                              },
+                                              "geometryCrop2" : {
+                                                "type" : "double",
+                                                "defaultValue" : 0.0,
+                                                "interp" : "eioe"
+                                              },
+                                              "geometryCrop3" : {
+                                                "type" : "double",
+                                                "defaultValue" : 0.0,
+                                                "interp" : "eioe"
+                                              }
+                                            },
+                                            "effects" : [
+
+                                            ],
+                                            "start" : 0,
+                                            "duration" : 1411200000,
+                                            "mediaStart" : 0,
+                                            "mediaDuration" : 1411200000,
+                                            "scalar" : 1,
+                                            "metadata" : {
+                                              "AppliedThemeId" : "",
+                                              "clipSpeedAttribute" : false,
+                                              "default-callout-shape-tail" : "arrow",
+                                              "default-callout-stroke-color" : "(112,152,232,255)",
+                                              "default-scale" : "1",
+                                              "effectApplied" : "none",
+                                              "lockAspectRatio" : true
+                                            },
+                                            "animationTracks" : {
+                                              "visual" : [
+                                                {
+                                                  "endTime" : 235200000,
+                                                  "duration" : 235200000,
+                                                  "range" : [ 0, 235200000],
+                                                  "interp" : "eioe"
+                                                },
+                                                {
+                                                  "endTime" : 3516240000,
+                                                  "duration" : 235200000,
+                                                  "range" : [ 3281040000, 235200000],
+                                                  "interp" : "eioe"
+                                                }
+                                              ]
+                                            }
+                                          }
+                                        ],
+                                          "ident" : "",
+                                          "audioMuted" : false,
+                                          "videoHidden" : false,
+                                          "magnetic" : false,
+                                          "matte" : 0,
+                                          "solo" : false
+                                      },
+                                      {
+                                        "trackIndex" : 1,
+                                        "medias" : [
+                                          {
+                                            "id" : 9,
+                                            "_type" : "Callout",
+                                            "def" : {
+                                                "kind" : "remix",
+                                                "shape" : "arrow",
+                                                "style" : "bold",
+                                                "stroke-color-blue" : {
+                                                  "type" : "double",
+                                                  "defaultValue" : 0.325490196078431,
+                                                  "interp" : "linr",
+                                                  "keyframes" : [
+                                                    {
+                                                      "endTime" : 352800000,
+                                                      "time" : 223440000,
+                                                      "value" : 0.325490196078431,
+                                                      "interp" : "eioe",
+                                                      "duration" : 129360000
+                                                    },
+                                                    {
+                                                      "endTime" : 3292800000,
+                                                      "time" : 3163440000,
+                                                      "value" : 0.325490196078431,
+                                                      "interp" : "eioe",
+                                                      "duration" : 129360000
+                                                    }
+                                                  ]
+                                                },
+                                                "stroke-color-green" : {
+                                                  "type" : "double",
+                                                  "defaultValue" : 0.427450980392157,
+                                                  "interp" : "linr",
+                                                  "keyframes" : [
+                                                    {
+                                                      "endTime" : 352800000,
+                                                      "time" : 223440000,
+                                                      "value" : 0.427450980392157,
+                                                      "interp" : "eioe",
+                                                      "duration" : 129360000
+                                                    },
+                                                    {
+                                                      "endTime" : 3292800000,
+                                                      "time" : 3163440000,
+                                                      "value" : 0.427450980392157,
+                                                      "interp" : "eioe",
+                                                      "duration" : 129360000
+                                                    }
+                                                  ]
+                                                },
+                                                "stroke-color-opacity" : {
+                                                  "type" : "double",
+                                                  "defaultValue" : 1.0,
+                                                  "interp" : "linr"
+                                                },
+                                                "stroke-color-red" : {
+                                                  "type" : "double",
+                                                  "defaultValue" : 0.972549019607843,
+                                                  "interp" : "linr",
+                                                  "keyframes" : [
+                                                    {
+                                                      "endTime" : 352800000,
+                                                      "time" : 223440000,
+                                                      "value" : 0.972549019607843,
+                                                      "interp" : "eioe",
+                                                      "duration" : 129360000
+                                                    },
+                                                    {
+                                                      "endTime" : 3292800000,
+                                                      "time" : 3163440000,
+                                                      "value" : 0.972549019607843,
+                                                      "interp" : "eioe",
+                                                      "duration" : 129360000
+                                                    }
+                                                  ]
+                                                },
+                                                "stroke-width" : {
+                                                  "type" : "double",
+                                                  "defaultValue" : 0.0,
+                                                  "interp" : "linr",
+                                                  "keyframes" : [
+                                                    {
+                                                      "endTime" : 352800000,
+                                                      "time" : 223440000,
+                                                      "value" : 8.0,
+                                                      "interp" : "eioe",
+                                                      "duration" : 129360000
+                                                    }
+                                                  ]
+                                                },
+                                                "tail-x" : {
+                                                  "type" : "double",
+                                                  "defaultValue" : 0.0,
+                                                  "interp" : "eioe",
+                                                  "keyframes" : [
+                                                    {
+                                                      "endTime" : 352800000,
+                                                      "time" : 223440000,
+                                                      "value" : -138.984609642342,
+                                                      "interp" : "eioe",
+                                                      "duration" : 129360000
+                                                    },
+                                                    {
+                                                      "endTime" : 3292800000,
+                                                      "time" : 3163440000,
+                                                      "value" : 0.0,
+                                                      "interp" : "eioe",
+                                                      "duration" : 129360000
+                                                    }
+                                                  ]
+                                                },
+                                                "tail-y" : {
+                                                  "type" : "double",
+                                                  "defaultValue" : 0.0,
+                                                  "interp" : "eioe"
+                                                },
+                                                "shape-anchor" : "none",
+                                                "shape-tail" : "none",
+                                                "stroke-style" : "solid"
+                                            },
+                                            "attributes" : {
+                                              "ident" : "",
+                                              "autoRotateText" : true
+                                            },
+                                            "parameters" : {
+                                              "translation0" : {
+                                                "type" : "double",
+                                                "defaultValue" : -138.984609642342,
+                                                "interp" : "eioe",
+                                                "keyframes" : [
+                                                  {
+                                                    "endTime" : 352800000,
+                                                    "time" : 223440000,
+                                                    "value" : 0.0,
+                                                    "interp" : "eioe",
+                                                    "duration" : 129360000
+                                                  },
+                                                  {
+                                                    "endTime" : 3292800000,
+                                                    "time" : 3163440000,
+                                                    "value" : -138.984609642342,
+                                                    "interp" : "eioe",
+                                                    "duration" : 129360000
+                                                  }
+                                                ]
+                                              },
+                                              "translation1" : {
+                                                "type" : "double",
+                                                "defaultValue" : 318.701131816911,
+                                                "interp" : "eioe",
+                                                "keyframes" : [
+                                                  {
+                                                    "endTime" : 352800000,
+                                                    "time" : 223440000,
+                                                    "value" : 318.701131816911,
+                                                    "interp" : "eioe",
+                                                    "duration" : 129360000
+                                                  },
+                                                  {
+                                                    "endTime" : 3292800000,
+                                                    "time" : 3163440000,
+                                                    "value" : 318.701131816911,
+                                                    "interp" : "eioe",
+                                                    "duration" : 129360000
+                                                  }
+                                                ]
+                                              },
+                                              "geometryCrop0" : {
+                                                "type" : "double",
+                                                "defaultValue" : 0.0,
+                                                "interp" : "eioe"
+                                              },
+                                              "geometryCrop1" : {
+                                                "type" : "double",
+                                                "defaultValue" : 0.0,
+                                                "interp" : "eioe"
+                                              },
+                                              "geometryCrop2" : {
+                                                "type" : "double",
+                                                "defaultValue" : 0.0,
+                                                "interp" : "eioe"
+                                              },
+                                              "geometryCrop3" : {
+                                                "type" : "double",
+                                                "defaultValue" : 0.0,
+                                                "interp" : "eioe"
+                                              }
+                                            },
+                                            "effects" : [
+
+                                            ],
+                                            "start" : 0,
+                                            "duration" : 1411200000,
+                                            "mediaStart" : 0,
+                                            "mediaDuration" : 1411200000,
+                                            "scalar" : 1,
+                                            "metadata" : {
+                                              "AppliedThemeId" : "",
+                                              "clipSpeedAttribute" : false,
+                                              "default-callout-shape-tail" : "arrow",
+                                              "default-callout-stroke-color" : "(112,152,232,255)",
+                                              "default-scale" : "1",
+                                              "effectApplied" : "none",
+                                              "lockAspectRatio" : true
+                                            },
+                                            "animationTracks" : {
+                                              "visual" : [
+                                                {
+                                                  "endTime" : 352800000,
+                                                  "duration" : 129360000,
+                                                  "range" : [ 223440000, 129360000],
+                                                  "interp" : "eioe"
+                                                },
+                                                {
+                                                  "endTime" : 3292800000,
+                                                  "duration" : 129360000,
+                                                  "range" : [ 3163440000, 129360000],
+                                                  "interp" : "eioe"
+                                                }
+                                              ]
+                                            }
+                                          }
+                                        ],
+                                          "ident" : "",
+                                          "audioMuted" : false,
+                                          "videoHidden" : false,
+                                          "magnetic" : false,
+                                          "matte" : 0,
+                                          "solo" : false
+                                      }
+                                    ],
+                                    "attributes" : {
+                                      "ident" : "Left Bracket",
+                                      "widthAttr" : 278.0,
+                                      "heightAttr" : 646.0,
+                                      "gain" : 1.0,
+                                      "mixToMono" : false,
+                                      "assetProperties" : [
+                                        {
+                                          "type" : 4,
+                                          "name" : "Arrow",
+                                          "objects" : [ 8 ]
+                                        },
+                                        {
+                                          "type" : 4,
+                                          "name" : "Arrow",
+                                          "objects" : [ 9 ]
+                                        }
+                                      ]
+                                    },
+                                    "effects" : [
+
+                                    ],
+                                    "start" : 0,
+                                    "duration" : 1411200000,
+                                    "mediaStart" : 0.0,
+                                    "mediaDuration" : 1411200000.0,
+                                    "scalar" : 1,
+                                    "metadata" : {
+                                      "clipSpeedAttribute" : false,
+                                      "effectApplied" : "none",
+                                      "isOpen" : false
+                                    },
+                                    "animationTracks" : {
+
+                                    }
+                                  }
+                                ],
+                                  "ident" : "",
+                                  "audioMuted" : false,
+                                  "videoHidden" : false,
+                                  "magnetic" : false,
+                                  "matte" : 0,
+                                  "solo" : false,
+                                  "metadata" : {
+                                    "IsLocked" : "False",
+                                    "trackHeight" : "54"
+                                  }
+                              },
+                              {
+                                "trackIndex" : 1,
+                                "medias" : [
+                                  {
+                                    "id" : 10,
+                                    "_type" : "Group",
+                                    "parameters" : {
+                                      "translation0" : {
+                                        "type" : "double",
+                                        "defaultValue" : 823.5,
+                                        "interp" : "eioe"
+                                      },
+                                      "translation1" : {
+                                        "type" : "double",
+                                        "defaultValue" : -157.568696438128,
+                                        "interp" : "eioe"
+                                      },
+                                      "geometryCrop0" : {
+                                        "type" : "double",
+                                        "defaultValue" : 0.0,
+                                        "interp" : "eioe"
+                                      },
+                                      "geometryCrop1" : {
+                                        "type" : "double",
+                                        "defaultValue" : 0.0,
+                                        "interp" : "eioe"
+                                      },
+                                      "geometryCrop2" : {
+                                        "type" : "double",
+                                        "defaultValue" : 0.0,
+                                        "interp" : "eioe"
+                                      },
+                                      "geometryCrop3" : {
+                                        "type" : "double",
+                                        "defaultValue" : 0.0,
+                                        "interp" : "eioe"
+                                      },
+                                      "volume" : 1.0
+                                    },
+                                    "tracks" : [
+                                      {
+                                        "trackIndex" : 0,
+                                        "medias" : [
+                                          {
+                                            "id" : 11,
+                                            "_type" : "Callout",
+                                            "def" : {
+                                                "kind" : "remix",
+                                                "shape" : "arrow",
+                                                "style" : "bold",
+                                                "stroke-color-blue" : {
+                                                  "type" : "double",
+                                                  "defaultValue" : 0.325490196078431,
+                                                  "interp" : "linr",
+                                                  "keyframes" : [
+                                                    {
+                                                      "endTime" : 235200000,
+                                                      "time" : 0,
+                                                      "value" : 0.325490196078431,
+                                                      "interp" : "eioe",
+                                                      "duration" : 235200000
+                                                    },
+                                                    {
+                                                      "endTime" : 3516240000,
+                                                      "time" : 3281040000,
+                                                      "value" : 0.325490196078431,
+                                                      "interp" : "eioe",
+                                                      "duration" : 235200000
+                                                    }
+                                                  ]
+                                                },
+                                                "stroke-color-green" : {
+                                                  "type" : "double",
+                                                  "defaultValue" : 0.427450980392157,
+                                                  "interp" : "linr",
+                                                  "keyframes" : [
+                                                    {
+                                                      "endTime" : 235200000,
+                                                      "time" : 0,
+                                                      "value" : 0.427450980392157,
+                                                      "interp" : "eioe",
+                                                      "duration" : 235200000
+                                                    },
+                                                    {
+                                                      "endTime" : 3516240000,
+                                                      "time" : 3281040000,
+                                                      "value" : 0.427450980392157,
+                                                      "interp" : "eioe",
+                                                      "duration" : 235200000
+                                                    }
+                                                  ]
+                                                },
+                                                "stroke-color-opacity" : {
+                                                  "type" : "double",
+                                                  "defaultValue" : 1.0,
+                                                  "interp" : "linr"
+                                                },
+                                                "stroke-color-red" : {
+                                                  "type" : "double",
+                                                  "defaultValue" : 0.972549019607843,
+                                                  "interp" : "linr",
+                                                  "keyframes" : [
+                                                    {
+                                                      "endTime" : 235200000,
+                                                      "time" : 0,
+                                                      "value" : 0.972549019607843,
+                                                      "interp" : "eioe",
+                                                      "duration" : 235200000
+                                                    },
+                                                    {
+                                                      "endTime" : 3516240000,
+                                                      "time" : 3281040000,
+                                                      "value" : 0.972549019607843,
+                                                      "interp" : "eioe",
+                                                      "duration" : 235200000
+                                                    }
+                                                  ]
+                                                },
+                                                "stroke-width" : {
+                                                  "type" : "double",
+                                                  "defaultValue" : 0.0,
+                                                  "interp" : "linr",
+                                                  "keyframes" : [
+                                                    {
+                                                      "endTime" : 235200000,
+                                                      "time" : 0,
+                                                      "value" : 8.0,
+                                                      "interp" : "eioe",
+                                                      "duration" : 235200000
+                                                    }
+                                                  ]
+                                                },
+                                                "tail-x" : {
+                                                  "type" : "double",
+                                                  "defaultValue" : 0.0,
+                                                  "interp" : "eioe"
+                                                },
+                                                "tail-y" : {
+                                                  "type" : "double",
+                                                  "defaultValue" : 0.0,
+                                                  "interp" : "eioe",
+                                                  "keyframes" : [
+                                                    {
+                                                      "endTime" : 235200000,
+                                                      "time" : 0,
+                                                      "value" : 323.479842754412,
+                                                      "interp" : "eioe",
+                                                      "duration" : 235200000
+                                                    },
+                                                    {
+                                                      "endTime" : 3516240000,
+                                                      "time" : 3281040000,
+                                                      "value" : 0.0,
+                                                      "interp" : "eioe",
+                                                      "duration" : 235200000
+                                                    }
+                                                  ]
+                                                },
+                                                "shape-anchor" : "none",
+                                                "shape-tail" : "none",
+                                                "stroke-style" : "solid"
+                                            },
+                                            "attributes" : {
+                                              "ident" : "",
+                                              "autoRotateText" : true
+                                            },
+                                            "parameters" : {
+                                              "translation0" : {
+                                                "type" : "double",
+                                                "defaultValue" : -3.60000000000002,
+                                                "interp" : "eioe",
+                                                "keyframes" : [
+                                                  {
+                                                    "endTime" : 235200000,
+                                                    "time" : 0,
+                                                    "value" : -3.60000000000002,
+                                                    "interp" : "eioe",
+                                                    "duration" : 235200000
+                                                  },
+                                                  {
+                                                    "endTime" : 3516240000,
+                                                    "time" : 3281040000,
+                                                    "value" : -3.60000000000002,
+                                                    "interp" : "eioe",
+                                                    "duration" : 235200000
+                                                  }
+                                                ]
+                                              },
+                                              "translation1" : {
+                                                "type" : "double",
+                                                "defaultValue" : 323.479842754412,
+                                                "interp" : "eioe",
+                                                "keyframes" : [
+                                                  {
+                                                    "endTime" : 235200000,
+                                                    "time" : 0,
+                                                    "value" : 2.8421709430404e-14,
+                                                    "interp" : "eioe",
+                                                    "duration" : 235200000
+                                                  },
+                                                  {
+                                                    "endTime" : 3516240000,
+                                                    "time" : 3281040000,
+                                                    "value" : 323.479842754412,
+                                                    "interp" : "eioe",
+                                                    "duration" : 235200000
+                                                  }
+                                                ]
+                                              },
+                                              "geometryCrop0" : {
+                                                "type" : "double",
+                                                "defaultValue" : 0.0,
+                                                "interp" : "eioe"
+                                              },
+                                              "geometryCrop1" : {
+                                                "type" : "double",
+                                                "defaultValue" : 0.0,
+                                                "interp" : "eioe"
+                                              },
+                                              "geometryCrop2" : {
+                                                "type" : "double",
+                                                "defaultValue" : 0.0,
+                                                "interp" : "eioe"
+                                              },
+                                              "geometryCrop3" : {
+                                                "type" : "double",
+                                                "defaultValue" : 0.0,
+                                                "interp" : "eioe"
+                                              }
+                                            },
+                                            "effects" : [
+
+                                            ],
+                                            "start" : 0,
+                                            "duration" : 1411200000,
+                                            "mediaStart" : 0,
+                                            "mediaDuration" : 1411200000,
+                                            "scalar" : 1,
+                                            "metadata" : {
+                                              "AppliedThemeId" : "",
+                                              "clipSpeedAttribute" : false,
+                                              "default-callout-shape-tail" : "arrow",
+                                              "default-callout-stroke-color" : "(112,152,232,255)",
+                                              "default-scale" : "1",
+                                              "effectApplied" : "none",
+                                              "lockAspectRatio" : true
+                                            },
+                                            "animationTracks" : {
+                                              "visual" : [
+                                                {
+                                                  "endTime" : 235200000,
+                                                  "duration" : 235200000,
+                                                  "range" : [ 0, 235200000],
+                                                  "interp" : "eioe"
+                                                },
+                                                {
+                                                  "endTime" : 3516240000,
+                                                  "duration" : 235200000,
+                                                  "range" : [ 3281040000, 235200000],
+                                                  "interp" : "eioe"
+                                                }
+                                              ]
+                                            }
+                                          }
+                                        ],
+                                          "ident" : "",
+                                          "audioMuted" : false,
+                                          "videoHidden" : false,
+                                          "magnetic" : false,
+                                          "matte" : 0,
+                                          "solo" : false
+                                      },
+                                      {
+                                        "trackIndex" : 1,
+                                        "medias" : [
+                                          {
+                                            "id" : 12,
+                                            "_type" : "Callout",
+                                            "def" : {
+                                                "kind" : "remix",
+                                                "shape" : "arrow",
+                                                "style" : "bold",
+                                                "stroke-color-blue" : {
+                                                  "type" : "double",
+                                                  "defaultValue" : 0.325490196078431,
+                                                  "interp" : "linr",
+                                                  "keyframes" : [
+                                                    {
+                                                      "endTime" : 352800000,
+                                                      "time" : 223440000,
+                                                      "value" : 0.325490196078431,
+                                                      "interp" : "eioe",
+                                                      "duration" : 129360000
+                                                    },
+                                                    {
+                                                      "endTime" : 3292800000,
+                                                      "time" : 3163440000,
+                                                      "value" : 0.325490196078431,
+                                                      "interp" : "eioe",
+                                                      "duration" : 129360000
+                                                    }
+                                                  ]
+                                                },
+                                                "stroke-color-green" : {
+                                                  "type" : "double",
+                                                  "defaultValue" : 0.427450980392157,
+                                                  "interp" : "linr",
+                                                  "keyframes" : [
+                                                    {
+                                                      "endTime" : 352800000,
+                                                      "time" : 223440000,
+                                                      "value" : 0.427450980392157,
+                                                      "interp" : "eioe",
+                                                      "duration" : 129360000
+                                                    },
+                                                    {
+                                                      "endTime" : 3292800000,
+                                                      "time" : 3163440000,
+                                                      "value" : 0.427450980392157,
+                                                      "interp" : "eioe",
+                                                      "duration" : 129360000
+                                                    }
+                                                  ]
+                                                },
+                                                "stroke-color-opacity" : {
+                                                  "type" : "double",
+                                                  "defaultValue" : 1.0,
+                                                  "interp" : "linr"
+                                                },
+                                                "stroke-color-red" : {
+                                                  "type" : "double",
+                                                  "defaultValue" : 0.972549019607843,
+                                                  "interp" : "linr",
+                                                  "keyframes" : [
+                                                    {
+                                                      "endTime" : 352800000,
+                                                      "time" : 223440000,
+                                                      "value" : 0.972549019607843,
+                                                      "interp" : "eioe",
+                                                      "duration" : 129360000
+                                                    },
+                                                    {
+                                                      "endTime" : 3292800000,
+                                                      "time" : 3163440000,
+                                                      "value" : 0.972549019607843,
+                                                      "interp" : "eioe",
+                                                      "duration" : 129360000
+                                                    }
+                                                  ]
+                                                },
+                                                "stroke-width" : {
+                                                  "type" : "double",
+                                                  "defaultValue" : 0.0,
+                                                  "interp" : "linr",
+                                                  "keyframes" : [
+                                                    {
+                                                      "endTime" : 352800000,
+                                                      "time" : 223440000,
+                                                      "value" : 8.0,
+                                                      "interp" : "eioe",
+                                                      "duration" : 129360000
+                                                    }
+                                                  ]
+                                                },
+                                                "tail-x" : {
+                                                  "type" : "double",
+                                                  "defaultValue" : 0.0,
+                                                  "interp" : "eioe",
+                                                  "keyframes" : [
+                                                    {
+                                                      "endTime" : 352800000,
+                                                      "time" : 223440000,
+                                                      "value" : -138.458242454842,
+                                                      "interp" : "eioe",
+                                                      "duration" : 129360000
+                                                    },
+                                                    {
+                                                      "endTime" : 3292800000,
+                                                      "time" : 3163440000,
+                                                      "value" : 0.0,
+                                                      "interp" : "eioe",
+                                                      "duration" : 129360000
+                                                    }
+                                                  ]
+                                                },
+                                                "tail-y" : {
+                                                  "type" : "double",
+                                                  "defaultValue" : 0.0,
+                                                  "interp" : "eioe"
+                                                },
+                                                "shape-anchor" : "none",
+                                                "shape-tail" : "none",
+                                                "stroke-style" : "solid"
+                                            },
+                                            "attributes" : {
+                                              "ident" : "",
+                                              "autoRotateText" : true
+                                            },
+                                            "parameters" : {
+                                              "translation0" : {
+                                                "type" : "double",
+                                                "defaultValue" : 0.0,
+                                                "interp" : "eioe",
+                                                "keyframes" : [
+                                                  {
+                                                    "endTime" : 352800000,
+                                                    "time" : 223440000,
+                                                    "value" : 0.0,
+                                                    "interp" : "eioe",
+                                                    "duration" : 129360000
+                                                  },
+                                                  {
+                                                    "endTime" : 3292800000,
+                                                    "time" : 3163440000,
+                                                    "value" : 0.0,
+                                                    "interp" : "eioe",
+                                                    "duration" : 129360000
+                                                  }
+                                                ]
+                                              },
+                                              "translation1" : {
+                                                "type" : "double",
+                                                "defaultValue" : 3.66869643812797,
+                                                "interp" : "eioe",
+                                                "keyframes" : [
+                                                  {
+                                                    "endTime" : 352800000,
+                                                    "time" : 223440000,
+                                                    "value" : 3.66869643812797,
+                                                    "interp" : "eioe",
+                                                    "duration" : 129360000
+                                                  },
+                                                  {
+                                                    "endTime" : 3292800000,
+                                                    "time" : 3163440000,
+                                                    "value" : 3.66869643812797,
+                                                    "interp" : "eioe",
+                                                    "duration" : 129360000
+                                                  }
+                                                ]
+                                              },
+                                              "geometryCrop0" : {
+                                                "type" : "double",
+                                                "defaultValue" : 0.0,
+                                                "interp" : "eioe"
+                                              },
+                                              "geometryCrop1" : {
+                                                "type" : "double",
+                                                "defaultValue" : 0.0,
+                                                "interp" : "eioe"
+                                              },
+                                              "geometryCrop2" : {
+                                                "type" : "double",
+                                                "defaultValue" : 0.0,
+                                                "interp" : "eioe"
+                                              },
+                                              "geometryCrop3" : {
+                                                "type" : "double",
+                                                "defaultValue" : 0.0,
+                                                "interp" : "eioe"
+                                              }
+                                            },
+                                            "effects" : [
+
+                                            ],
+                                            "start" : 0,
+                                            "duration" : 1411200000,
+                                            "mediaStart" : 0,
+                                            "mediaDuration" : 1411200000,
+                                            "scalar" : 1,
+                                            "metadata" : {
+                                              "AppliedThemeId" : "",
+                                              "clipSpeedAttribute" : false,
+                                              "default-callout-shape-tail" : "arrow",
+                                              "default-callout-stroke-color" : "(112,152,232,255)",
+                                              "default-scale" : "1",
+                                              "effectApplied" : "none",
+                                              "lockAspectRatio" : true
+                                            },
+                                            "animationTracks" : {
+                                              "visual" : [
+                                                {
+                                                  "endTime" : 352800000,
+                                                  "duration" : 129360000,
+                                                  "range" : [ 223440000, 129360000],
+                                                  "interp" : "eioe"
+                                                },
+                                                {
+                                                  "endTime" : 3292800000,
+                                                  "duration" : 129360000,
+                                                  "range" : [ 3163440000, 129360000],
+                                                  "interp" : "eioe"
+                                                }
+                                              ]
+                                            }
+                                          }
+                                        ],
+                                          "ident" : "",
+                                          "audioMuted" : false,
+                                          "videoHidden" : false,
+                                          "magnetic" : false,
+                                          "matte" : 0,
+                                          "solo" : false
+                                      }
+                                    ],
+                                    "attributes" : {
+                                      "ident" : "Right Bracket",
+                                      "widthAttr" : 278.0,
+                                      "heightAttr" : 648.0,
+                                      "gain" : 1.0,
+                                      "mixToMono" : false,
+                                      "assetProperties" : [
+                                        {
+                                          "type" : 4,
+                                          "name" : "Arrow",
+                                          "objects" : [ 11 ]
+                                        },
+                                        {
+                                          "type" : 4,
+                                          "name" : "Arrow",
+                                          "objects" : [ 12 ]
+                                        }
+                                      ]
+                                    },
+                                    "effects" : [
+
+                                    ],
+                                    "start" : 0,
+                                    "duration" : 1411200000,
+                                    "mediaStart" : 0.0,
+                                    "mediaDuration" : 1411200000.0,
+                                    "scalar" : 1,
+                                    "metadata" : {
+                                      "clipSpeedAttribute" : false,
+                                      "effectApplied" : "none",
+                                      "isOpen" : false
+                                    },
+                                    "animationTracks" : {
+
+                                    }
+                                  }
+                                ],
+                                  "ident" : "",
+                                  "audioMuted" : false,
+                                  "videoHidden" : false,
+                                  "magnetic" : false,
+                                  "matte" : 0,
+                                  "solo" : false,
+                                  "metadata" : {
+                                    "IsLocked" : "False",
+                                    "trackHeight" : "54"
+                                  }
+                              },
+                              {
+                                "trackIndex" : 2,
+                                "medias" : [
+                                  {
+                                    "id" : 13,
+                                    "_type" : "Group",
+                                    "parameters" : {
+                                      "translation1" : {
+                                        "type" : "double",
+                                        "defaultValue" : 9.41838078143905,
+                                        "interp" : "eioe"
+                                      },
+                                      "geometryCrop0" : {
+                                        "type" : "double",
+                                        "defaultValue" : 0.0,
+                                        "interp" : "eioe"
+                                      },
+                                      "geometryCrop1" : {
+                                        "type" : "double",
+                                        "defaultValue" : 0.0,
+                                        "interp" : "eioe"
+                                      },
+                                      "geometryCrop2" : {
+                                        "type" : "double",
+                                        "defaultValue" : 0.0,
+                                        "interp" : "eioe"
+                                      },
+                                      "geometryCrop3" : {
+                                        "type" : "double",
+                                        "defaultValue" : 0.0,
+                                        "interp" : "eioe"
+                                      },
+                                      "volume" : 1.0
+                                    },
+                                    "tracks" : [
+                                      {
+                                        "trackIndex" : 0,
+                                        "medias" : [
+                                          {
+                                            "id" : 14,
+                                            "_type" : "Callout",
+                                            "def" : {
+                                                "kind" : "remix",
+                                                "shape" : "text",
+                                                "style" : "bold",
+                                                "enable-ligatures" : {
+                                                  "type" : "double",
+                                                  "defaultValue" : 1.0,
+                                                  "interp" : "linr"
+                                                },
+                                                "height" : {
+                                                  "type" : "double",
+                                                  "defaultValue" : 250.0,
+                                                  "interp" : "linr"
+                                                },
+                                                "line-spacing" : {
+                                                  "type" : "double",
+                                                  "defaultValue" : 0.0,
+                                                  "interp" : "linr"
+                                                },
+                                                "width" : {
+                                                  "type" : "double",
+                                                  "defaultValue" : 1564.30591259647,
+                                                  "interp" : "linr"
+                                                },
+                                                "word-wrap" : {
+                                                  "type" : "double",
+                                                  "defaultValue" : 1.0,
+                                                  "interp" : "linr"
+                                                },
+                                                "horizontal-alignment" : "center",
+                                                "resize-behavior" : "resizeText",
+                                                "text" : "Adding a integrated folder\nto the tag pane",
+                                                "vertical-alignment" : "center",
+                                                "font" : {
+                                                  "color-blue" : {
+                                                    "type" : "double",
+                                                    "defaultValue" : 1.0,
+                                                    "interp" : "linr"
+                                                  },
+                                                  "color-green" : {
+                                                    "type" : "double",
+                                                    "defaultValue" : 1.0,
+                                                    "interp" : "linr"
+                                                  },
+                                                  "color-red" : {
+                                                    "type" : "double",
+                                                    "defaultValue" : 1.0,
+                                                    "interp" : "linr"
+                                                  },
+                                                  "size" : {
+                                                    "type" : "double",
+                                                    "defaultValue" : 96.0,
+                                                    "interp" : "linr"
+                                                  },
+                                                  "tracking" : {
+                                                    "type" : "double",
+                                                    "defaultValue" : 0.0,
+                                                    "interp" : "linr"
+                                                  },
+                                                  "name" : "Source Sans Pro",
+                                                  "weight" : "Semi Bold"
+                                                },
+                                                "textAttributes" : {
+                                                  "type" : "textAttributeList",
+                                                  "keyframes" : [
+                                                    {
+                                                      "endTime" : 0,
+                                                      "time" : 0,
+                                                      "value" : [{"name":"underline","rangeEnd":42,"rangeStart":0,"value":0,"valueType":"int"},{"name":"strikethrough","rangeEnd":42,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fgColor","rangeEnd":42,"rangeStart":0,"value":"(248,109,83,255)","valueType":"color"},{"name":"kerning","rangeEnd":42,"rangeStart":0,"value":0.0,"valueType":"double"},{"name":"fontName","rangeEnd":42,"rangeStart":0,"value":"Source Sans Pro","valueType":"string"},{"name":"fontSize","rangeEnd":42,"rangeStart":0,"value":144.0,"valueType":"double"},{"name":"fontWeight","rangeEnd":42,"rangeStart":0,"value":600,"valueType":"int"},{"name":"fontItalic","rangeEnd":42,"rangeStart":0,"value":0,"valueType":"int"}],
+                                                      "duration" : 0
+                                                    }
+                                                  ]
+                                                }
+                                            },
+                                            "attributes" : {
+                                              "ident" : "",
+                                              "autoRotateText" : true
+                                            },
+                                            "parameters" : {
+                                              "translation1" : {
+                                                "type" : "double",
+                                                "defaultValue" : -9.41838078143905,
+                                                "interp" : "eioe"
+                                              },
+                                              "geometryCrop0" : {
+                                                "type" : "double",
+                                                "defaultValue" : 0.0,
+                                                "interp" : "eioe"
+                                              },
+                                              "geometryCrop1" : {
+                                                "type" : "double",
+                                                "defaultValue" : 0.0,
+                                                "interp" : "eioe"
+                                              },
+                                              "geometryCrop2" : {
+                                                "type" : "double",
+                                                "defaultValue" : 0.0,
+                                                "interp" : "eioe"
+                                              },
+                                              "geometryCrop3" : {
+                                                "type" : "double",
+                                                "defaultValue" : 0.0,
+                                                "interp" : "eioe"
+                                              }
+                                            },
+                                            "effects" : [
+
+                                            ],
+                                            "start" : 0,
+                                            "duration" : 1411200000,
+                                            "mediaStart" : 0,
+                                            "mediaDuration" : 1411200000,
+                                            "scalar" : 1,
+                                            "metadata" : {
+                                              "AppliedThemeId" : "",
+                                              "clipSpeedAttribute" : false,
+                                              "default-scale" : "1",
+                                              "effectApplied" : "none",
+                                              "lockAspectRatio" : true
+                                            },
+                                            "animationTracks" : {
+
+                                            }
+                                          }
+                                        ],
+                                          "ident" : "",
+                                          "audioMuted" : false,
+                                          "videoHidden" : false,
+                                          "magnetic" : false,
+                                          "matte" : 0,
+                                          "solo" : false,
+                                          "metadata" : {
+                                            "IsLocked" : "False",
+                                            "trackHeight" : "54"
+                                          }
+                                      },
+                                      {
+                                        "trackIndex" : 1,
+                                        "medias" : [
+                                          {
+                                            "id" : 15,
+                                            "_type" : "Group",
+                                            "parameters" : {
+                                              "translation1" : {
+                                                "type" : "double",
+                                                "defaultValue" : 4.41343672719086e-08,
+                                                "interp" : "eioe"
+                                              },
+                                              "geometryCrop0" : {
+                                                "type" : "double",
+                                                "defaultValue" : 0.0,
+                                                "interp" : "eioe"
+                                              },
+                                              "geometryCrop1" : {
+                                                "type" : "double",
+                                                "defaultValue" : 0.0,
+                                                "interp" : "eioe"
+                                              },
+                                              "geometryCrop2" : {
+                                                "type" : "double",
+                                                "defaultValue" : 0.0,
+                                                "interp" : "eioe"
+                                              },
+                                              "geometryCrop3" : {
+                                                "type" : "double",
+                                                "defaultValue" : 0.0,
+                                                "interp" : "eioe"
+                                              },
+                                              "volume" : 1.0
+                                            },
+                                            "tracks" : [
+                                              {
+                                                "trackIndex" : 0,
+                                                "medias" : [
+                                                  {
+                                                    "id" : 16,
+                                                    "_type" : "Callout",
+                                                    "def" : {
+                                                        "kind" : "remix",
+                                                        "shape" : "shape-rectangle",
+                                                        "style" : "bold",
+                                                        "fill-color-blue" : {
+                                                          "type" : "double",
+                                                          "defaultValue" : 0.325490196078431,
+                                                          "interp" : "linr"
+                                                        },
+                                                        "fill-color-green" : {
+                                                          "type" : "double",
+                                                          "defaultValue" : 1.0,
+                                                          "interp" : "linr"
+                                                        },
+                                                        "fill-color-opacity" : {
+                                                          "type" : "double",
+                                                          "defaultValue" : 1.0,
+                                                          "interp" : "linr"
+                                                        },
+                                                        "fill-color-red" : {
+                                                          "type" : "double",
+                                                          "defaultValue" : 0.835294117647059,
+                                                          "interp" : "linr"
+                                                        },
+                                                        "height" : {
+                                                          "type" : "double",
+                                                          "defaultValue" : 143.836760925456,
+                                                          "interp" : "linr",
+                                                          "keyframes" : [
+                                                            {
+                                                              "endTime" : 352800000,
+                                                              "time" : 117600000,
+                                                              "value" : 1.0,
+                                                              "interp" : "linr",
+                                                              "duration" : 235200000
+                                                            },
+                                                            {
+                                                              "endTime" : 3433920000,
+                                                              "time" : 3198720000,
+                                                              "value" : 142.970066926626,
+                                                              "interp" : "eioe",
+                                                              "duration" : 235200000
+                                                            }
+                                                          ]
+                                                        },
+                                                        "stroke-color-blue" : {
+                                                          "type" : "double",
+                                                          "defaultValue" : 1.0,
+                                                          "interp" : "linr"
+                                                        },
+                                                        "stroke-color-green" : {
+                                                          "type" : "double",
+                                                          "defaultValue" : 1.0,
+                                                          "interp" : "linr"
+                                                        },
+                                                        "stroke-color-opacity" : {
+                                                          "type" : "double",
+                                                          "defaultValue" : 1.0,
+                                                          "interp" : "linr"
+                                                        },
+                                                        "stroke-color-red" : {
+                                                          "type" : "double",
+                                                          "defaultValue" : 1.0,
+                                                          "interp" : "linr"
+                                                        },
+                                                        "stroke-width" : {
+                                                          "type" : "double",
+                                                          "defaultValue" : 0.0,
+                                                          "interp" : "linr"
+                                                        },
+                                                        "width" : {
+                                                          "type" : "double",
+                                                          "defaultValue" : 1612.55786132812,
+                                                          "interp" : "linr"
+                                                        },
+                                                        "fill-style" : "solid",
+                                                        "stroke-style" : "solid"
+                                                    },
+                                                    "attributes" : {
+                                                      "ident" : "",
+                                                      "autoRotateText" : true
+                                                    },
+                                                    "parameters" : {
+                                                      "translation1" : {
+                                                        "type" : "double",
+                                                        "defaultValue" : -62.5,
+                                                        "interp" : "eioe",
+                                                        "keyframes" : [
+                                                          {
+                                                            "endTime" : 352800000,
+                                                            "time" : 117600000,
+                                                            "value" : -133.918380737305,
+                                                            "interp" : "linr",
+                                                            "duration" : 235200000
+                                                          },
+                                                          {
+                                                            "endTime" : 3433920000,
+                                                            "time" : 3198720000,
+                                                            "value" : -62.9333441158087,
+                                                            "interp" : "eioe",
+                                                            "duration" : 235200000
+                                                          }
+                                                        ]
+                                                      },
+                                                      "geometryCrop0" : {
+                                                        "type" : "double",
+                                                        "defaultValue" : 0.0,
+                                                        "interp" : "eioe"
+                                                      },
+                                                      "geometryCrop1" : {
+                                                        "type" : "double",
+                                                        "defaultValue" : 0.0,
+                                                        "interp" : "eioe"
+                                                      },
+                                                      "geometryCrop2" : {
+                                                        "type" : "double",
+                                                        "defaultValue" : 0.0,
+                                                        "interp" : "eioe"
+                                                      },
+                                                      "geometryCrop3" : {
+                                                        "type" : "double",
+                                                        "defaultValue" : 0.0,
+                                                        "interp" : "eioe"
+                                                      }
+                                                    },
+                                                    "effects" : [
+
+                                                    ],
+                                                    "start" : 0,
+                                                    "duration" : 1411200000,
+                                                    "mediaStart" : 0,
+                                                    "mediaDuration" : 1411200000,
+                                                    "scalar" : 1,
+                                                    "metadata" : {
+                                                      "AppliedThemeId" : "",
+                                                      "clipSpeedAttribute" : false,
+                                                      "default-callout-fill-color" : "(255,255,255,255)",
+                                                      "default-scale" : "1",
+                                                      "effectApplied" : "none",
+                                                      "lockAspectRatio" : true
+                                                    },
+                                                    "animationTracks" : {
+                                                      "visual" : [
+                                                        {
+                                                          "endTime" : 352800000,
+                                                          "duration" : 235200000,
+                                                          "range" : [ 117600000, 235200000],
+                                                          "interp" : "linr"
+                                                        },
+                                                        {
+                                                          "endTime" : 3433920000,
+                                                          "duration" : 235200000,
+                                                          "range" : [ 3198720000, 235200000],
+                                                          "interp" : "eioe"
+                                                        }
+                                                      ]
+                                                    }
+                                                  }
+                                                ],
+                                                  "ident" : "",
+                                                  "audioMuted" : false,
+                                                  "videoHidden" : false,
+                                                  "magnetic" : false,
+                                                  "matte" : 0,
+                                                  "solo" : false,
+                                                  "metadata" : {
+                                                    "IsLocked" : "False",
+                                                    "trackHeight" : "54"
+                                                  }
+                                              },
+                                              {
+                                                "trackIndex" : 1,
+                                                "medias" : [
+                                                  {
+                                                    "id" : 17,
+                                                    "_type" : "Callout",
+                                                    "def" : {
+                                                        "kind" : "remix",
+                                                        "shape" : "shape-rectangle",
+                                                        "style" : "bold",
+                                                        "fill-color-blue" : {
+                                                          "type" : "double",
+                                                          "defaultValue" : 0.325490196078431,
+                                                          "interp" : "linr"
+                                                        },
+                                                        "fill-color-green" : {
+                                                          "type" : "double",
+                                                          "defaultValue" : 1.0,
+                                                          "interp" : "linr"
+                                                        },
+                                                        "fill-color-opacity" : {
+                                                          "type" : "double",
+                                                          "defaultValue" : 1.0,
+                                                          "interp" : "linr"
+                                                        },
+                                                        "fill-color-red" : {
+                                                          "type" : "double",
+                                                          "defaultValue" : 0.835294117647059,
+                                                          "interp" : "linr"
+                                                        },
+                                                        "height" : {
+                                                          "type" : "double",
+                                                          "defaultValue" : 143.836760925456,
+                                                          "interp" : "linr",
+                                                          "keyframes" : [
+                                                            {
+                                                              "endTime" : 352800000,
+                                                              "time" : 117600000,
+                                                              "value" : 1.0,
+                                                              "interp" : "linr",
+                                                              "duration" : 235200000
+                                                            },
+                                                            {
+                                                              "endTime" : 3433920000,
+                                                              "time" : 3198720000,
+                                                              "value" : 143.836756495912,
+                                                              "interp" : "eioe",
+                                                              "duration" : 235200000
+                                                            }
+                                                          ]
+                                                        },
+                                                        "stroke-color-blue" : {
+                                                          "type" : "double",
+                                                          "defaultValue" : 1.0,
+                                                          "interp" : "linr"
+                                                        },
+                                                        "stroke-color-green" : {
+                                                          "type" : "double",
+                                                          "defaultValue" : 1.0,
+                                                          "interp" : "linr"
+                                                        },
+                                                        "stroke-color-opacity" : {
+                                                          "type" : "double",
+                                                          "defaultValue" : 1.0,
+                                                          "interp" : "linr"
+                                                        },
+                                                        "stroke-color-red" : {
+                                                          "type" : "double",
+                                                          "defaultValue" : 1.0,
+                                                          "interp" : "linr"
+                                                        },
+                                                        "stroke-width" : {
+                                                          "type" : "double",
+                                                          "defaultValue" : 0.0,
+                                                          "interp" : "linr"
+                                                        },
+                                                        "width" : {
+                                                          "type" : "double",
+                                                          "defaultValue" : 1612.55786132812,
+                                                          "interp" : "linr",
+                                                          "keyframes" : [
+                                                            {
+                                                              "endTime" : 3433920000,
+                                                              "time" : 3198720000,
+                                                              "value" : 1612.55786132812,
+                                                              "interp" : "eioe",
+                                                              "duration" : 235200000
+                                                            }
+                                                          ]
+                                                        },
+                                                        "fill-style" : "solid",
+                                                        "stroke-style" : "solid"
+                                                    },
+                                                    "attributes" : {
+                                                      "ident" : "",
+                                                      "autoRotateText" : true
+                                                    },
+                                                    "parameters" : {
+                                                      "translation1" : {
+                                                        "type" : "double",
+                                                        "defaultValue" : 62.5,
+                                                        "interp" : "eioe",
+                                                        "keyframes" : [
+                                                          {
+                                                            "endTime" : 352800000,
+                                                            "time" : 117600000,
+                                                            "value" : 133.918380737305,
+                                                            "interp" : "linr",
+                                                            "duration" : 235200000
+                                                          },
+                                                          {
+                                                            "endTime" : 3433920000,
+                                                            "time" : 3198720000,
+                                                            "value" : 62.4999996156989,
+                                                            "interp" : "eioe",
+                                                            "duration" : 235200000
+                                                          }
+                                                        ]
+                                                      },
+                                                      "geometryCrop0" : {
+                                                        "type" : "double",
+                                                        "defaultValue" : 0.0,
+                                                        "interp" : "eioe"
+                                                      },
+                                                      "geometryCrop1" : {
+                                                        "type" : "double",
+                                                        "defaultValue" : 0.0,
+                                                        "interp" : "eioe"
+                                                      },
+                                                      "geometryCrop2" : {
+                                                        "type" : "double",
+                                                        "defaultValue" : 0.0,
+                                                        "interp" : "eioe"
+                                                      },
+                                                      "geometryCrop3" : {
+                                                        "type" : "double",
+                                                        "defaultValue" : 0.0,
+                                                        "interp" : "eioe"
+                                                      }
+                                                    },
+                                                    "effects" : [
+
+                                                    ],
+                                                    "start" : 0,
+                                                    "duration" : 1411200000,
+                                                    "mediaStart" : 0,
+                                                    "mediaDuration" : 1411200000,
+                                                    "scalar" : 1,
+                                                    "metadata" : {
+                                                      "AppliedThemeId" : "",
+                                                      "clipSpeedAttribute" : false,
+                                                      "default-callout-fill-color" : "(255,255,255,255)",
+                                                      "default-scale" : "1",
+                                                      "effectApplied" : "none",
+                                                      "lockAspectRatio" : true
+                                                    },
+                                                    "animationTracks" : {
+                                                      "visual" : [
+                                                        {
+                                                          "endTime" : 352800000,
+                                                          "duration" : 235200000,
+                                                          "range" : [ 117600000, 235200000],
+                                                          "interp" : "linr"
+                                                        },
+                                                        {
+                                                          "endTime" : 3433920000,
+                                                          "duration" : 235200000,
+                                                          "range" : [ 3198720000, 235200000],
+                                                          "interp" : "eioe"
+                                                        }
+                                                      ]
+                                                    }
+                                                  }
+                                                ],
+                                                  "ident" : "",
+                                                  "audioMuted" : false,
+                                                  "videoHidden" : false,
+                                                  "magnetic" : false,
+                                                  "matte" : 0,
+                                                  "solo" : false,
+                                                  "metadata" : {
+                                                    "IsLocked" : "False",
+                                                    "trackHeight" : "54"
+                                                  }
+                                              }
+                                            ],
+                                            "attributes" : {
+                                              "ident" : "Group 2-1",
+                                              "widthAttr" : 1612.0,
+                                              "heightAttr" : 268.0,
+                                              "gain" : 1.0,
+                                              "mixToMono" : false,
+                                              "assetProperties" : [
+                                                {
+                                                  "type" : 1,
+                                                  "name" : "Callout",
+                                                  "objects" : [ 16, 17 ],
+                                                  "themeMappings" :  {
+                                                    "fill" : "background-1"
+                                                  }
+                                                }
+                                              ]
+                                            },
+                                            "effects" : [
+
+                                            ],
+                                            "start" : 0,
+                                            "duration" : 1411200000,
+                                            "mediaStart" : 0.0,
+                                            "mediaDuration" : 1411200000.0,
+                                            "scalar" : 1,
+                                            "metadata" : {
+                                              "clipSpeedAttribute" : false,
+                                              "effectApplied" : "none",
+                                              "isOpen" : false,
+                                              "lockAspectRatio" : true
+                                            },
+                                            "animationTracks" : {
+
+                                            }
+                                          }
+                                        ],
+                                          "ident" : "",
+                                          "audioMuted" : false,
+                                          "videoHidden" : false,
+                                          "magnetic" : false,
+                                          "matte" : 2,
+                                          "solo" : false,
+                                          "metadata" : {
+                                            "IsLocked" : "False",
+                                            "trackHeight" : "54"
+                                          }
+                                      }
+                                    ],
+                                    "attributes" : {
+                                      "ident" : "Title Text",
+                                      "widthAttr" : 1612.0,
+                                      "heightAttr" : 268.0,
+                                      "gain" : 1.0,
+                                      "mixToMono" : false,
+                                      "assetProperties" : [
+                                        {
+                                          "type" : 0,
+                                          "name" : "Text",
+                                          "objects" : [ 14 ],
+                                          "themeMappings" :  {
+                                            "font-color" : "foreground-1"
+                                          }
+                                        },
+                                        {
+                                          "type" : 1,
+                                          "name" : "Callout",
+                                          "objects" : [ 16, 17 ],
+                                          "themeMappings" :  {
+                                            "fill" : "background-1"
+                                          }
+                                        }
+                                      ]
+                                    },
+                                    "effects" : [
+
+                                    ],
+                                    "start" : 0,
+                                    "duration" : 1411200000,
+                                    "mediaStart" : 0.0,
+                                    "mediaDuration" : 1411200000.0,
+                                    "scalar" : 1,
+                                    "metadata" : {
+                                      "clipSpeedAttribute" : false,
+                                      "effectApplied" : "none",
+                                      "isOpen" : false,
+                                      "lockAspectRatio" : true
+                                    },
+                                    "animationTracks" : {
+
+                                    }
+                                  }
+                                ],
+                                  "ident" : "",
+                                  "audioMuted" : false,
+                                  "videoHidden" : false,
+                                  "magnetic" : false,
+                                  "matte" : 0,
+                                  "solo" : false,
+                                  "metadata" : {
+                                    "IsLocked" : "False",
+                                    "trackHeight" : "54"
+                                  }
+                              }
+                            ],
+                            "attributes" : {
+                              "ident" : "Title Brackets",
+                              "widthAttr" : 1920.0,
+                              "heightAttr" : 1080.0,
+                              "gain" : 1.0,
+                              "mixToMono" : false,
+                              "assetProperties" : [
+                                {
+                                  "type" : 0,
+                                  "name" : "TITLE",
+                                  "objects" : [ 14 ],
+                                  "themeMappings" :  {
+                                    "font-color" : "foreground-1"
+                                  }
+                                },
+                                {
+                                  "type" : 4,
+                                  "name" : "BRACKETS",
+                                  "objects" : [ 8, 9, 11, 12 ],
+                                  "themeMappings" :  {
+                                    "outline" : "background-1"
+                                  }
+                                }
+                              ]
+                            },
+                            "effects" : [
+
+                            ],
+                            "start" : 0,
+                            "duration" : 1411200000,
+                            "mediaStart" : 0.0,
+                            "mediaDuration" : 1411200000.0,
+                            "scalar" : 1,
+                            "metadata" : {
+                              "AppliedThemeId" : "",
+                              "clipSpeedAttribute" : false,
+                              "default-height" : 465.75,
+                              "default-translation0" : 0.0,
+                              "default-translation1" : 0.0,
+                              "default-translation2" : 0.0,
+                              "default-width" : 828.0,
+                              "effectApplied" : "none",
+                              "isOpen" : false,
+                              "lockAspectRatio" : true
+                            },
+                            "animationTracks" : {
+
+                            }
+                          }
+                        ],
+                          "ident" : "",
+                          "audioMuted" : false,
+                          "videoHidden" : false,
+                          "magnetic" : false,
+                          "matte" : 0,
+                          "solo" : false,
+                          "metadata" : {
+                            "IsLocked" : "False",
+                            "trackHeight" : "54"
+                          }
+                      },
+                      {
+                        "trackIndex" : 2,
+                        "medias" : [
+                          {
+                            "id" : 18,
+                            "_type" : "IMFile",
+                            "src" : 1,
+                            "trackNumber" : 0,
+                            "trimStartSum" : 0,
+                            "attributes" : {
+                              "ident" : "rectangulartiletransparent"
+                            },
+                            "parameters" : {
+                              "translation0" : {
+                                "type" : "double",
+                                "defaultValue" : -355.403882351618,
+                                "interp" : "eioe"
+                              },
+                              "translation1" : {
+                                "type" : "double",
+                                "defaultValue" : -233.928634876178,
+                                "interp" : "eioe"
+                              },
+                              "scale0" : {
+                                "type" : "double",
+                                "defaultValue" : 0.0958140120967742,
+                                "interp" : "eioe"
+                              },
+                              "scale1" : {
+                                "type" : "double",
+                                "defaultValue" : 0.0958140120967742,
+                                "interp" : "eioe"
+                              },
+                              "geometryCrop0" : {
+                                "type" : "double",
+                                "defaultValue" : 0.0,
+                                "interp" : "eioe"
+                              },
+                              "geometryCrop1" : {
+                                "type" : "double",
+                                "defaultValue" : 0.0,
+                                "interp" : "eioe"
+                              },
+                              "geometryCrop2" : {
+                                "type" : "double",
+                                "defaultValue" : 0.0,
+                                "interp" : "eioe"
+                              },
+                              "geometryCrop3" : {
+                                "type" : "double",
+                                "defaultValue" : 0.0,
+                                "interp" : "eioe"
+                              }
+                            },
+                            "effects" : [
+
+                            ],
+                            "start" : 0,
+                            "duration" : 1411200000,
+                            "mediaStart" : 0,
+                            "mediaDuration" : 1,
+                            "scalar" : 1,
+                            "metadata" : {
+                              "clipSpeedAttribute" : false,
+                              "default-anchor0" : 0.0,
+                              "default-anchor1" : 0.0,
+                              "default-anchor2" : 0.0,
+                              "default-height" : 400.645161290323,
+                              "default-rotation0" : 0.0,
+                              "default-rotation1" : 0.0,
+                              "default-rotation2" : 0.0,
+                              "default-scale" : "0.667742",
+                              "default-scale0" : 0.667741935483871,
+                              "default-scale1" : 0.667741935483871,
+                              "default-scale2" : 1.0,
+                              "default-shear0" : 0.0,
+                              "default-shear1" : 0.0,
+                              "default-shear2" : 0.0,
+                              "default-translation0" : 0.0,
+                              "default-translation1" : 0.0,
+                              "default-translation2" : 0.0,
+                              "default-width" : 828.0,
+                              "effectApplied" : "none"
+                            },
+                            "animationTracks" : {
+
+                            }
+                          }
+                        ],
+                          "ident" : "",
+                          "audioMuted" : false,
+                          "videoHidden" : false,
+                          "magnetic" : false,
+                          "matte" : 0,
+                          "solo" : false,
+                          "metadata" : {
+                            "IsLocked" : "False",
+                            "trackHeight" : "54"
+                          }
+                      }
+                    ],
+                    "attributes" : {
+                      "ident" : "Docs-Intro",
+                      "widthAttr" : 828.0,
+                      "heightAttr" : 548.0,
+                      "gain" : 1.0,
+                      "mixToMono" : false,
+                      "assetProperties" : [
+                        {
+                          "type" : 0,
+                          "name" : "TITLE",
+                          "objects" : [ 14 ],
+                          "themeMappings" :  {
+                            "font-color" : "foreground-1"
+                          }
+                        },
+                        {
+                          "type" : 4,
+                          "name" : "BRACKETS",
+                          "objects" : [ 8, 9, 11, 12 ],
+                          "themeMappings" :  {
+                            "outline" : "background-1"
+                          }
+                        },
+                        {
+                          "type" : 1,
+                          "name" : "Callout",
+                          "objects" : [ 16, 17 ],
+                          "themeMappings" :  {
+                            "fill" : "background-1"
+                          }
+                        },
+                        {
+                          "type" : 1,
+                          "name" : "Callout",
+                          "objects" : [ 5 ],
+                          "themeMappings" :  {
+                            "fill" : "background-1"
+                          }
+                        }
+                      ]
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 0,
+                    "duration" : 1411200000,
+                    "mediaStart" : 0.0,
+                    "mediaDuration" : 1411200000.0,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "effectApplied" : "none",
+                      "isOpen" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 19,
+                    "_type" : "ScreenVMFile",
+                    "src" : 2,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "Rec 7-5-2023"
+                    },
+                    "parameters" : {
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "cursorScale" : {
+                        "type" : "double",
+                        "defaultValue" : 1.5,
+                        "interp" : "linr"
+                      },
+                      "cursorOpacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "smoothCursorAcrossEditDuration" : 0
+                    },
+                    "effects" : [
+                        {
+                          "effectName" : "LeftClickRings",
+                          "bypassed" : false,
+                          "category" : "categoryCursorEffects",
+                          "parameters" : {
+                            "clickDuration" : {
+                              "type" : "double",
+                              "defaultValue" : 1.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "postClickPercent" : 100.0,
+                            "color-red" : {
+                              "type" : "double",
+                              "defaultValue" : 0.984314,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "color-green" : {
+                              "type" : "double",
+                              "defaultValue" : 0.521569,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "color-blue" : {
+                              "type" : "double",
+                              "defaultValue" : 0.435294,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "color-alpha" : {
+                              "type" : "double",
+                              "defaultValue" : 0.5,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "radius" : {
+                              "type" : "double",
+                              "defaultValue" : 30.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "scale" : {
+                              "type" : "double",
+                              "defaultValue" : 0.5,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            }
+                          },
+                          "metadata" : {
+                            "presetName" : "Left Click Rings"
+                          }
+                        }
+                    ],
+                    "start" : 1411200000,
+                    "duration" : 9690240000,
+                    "mediaStart" : 65526720000,
+                    "mediaDuration" : 9690240000,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-scale" : "1",
+                      "effectApplied" : "LeftClickRings",
+                      "lockAspectRatio" : true
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ],
+                "transitions" : [
+                  {
+                    "name" : "Fade",
+                    "duration" : 176400000,
+                    "leftMedia" : 4,
+                    "rightMedia" : 19,
+                    "attributes" : {
+                      "bypass" : false,
+                      "reverse" : false,
+                      "trivial" : false,
+                      "useAudioPreRoll" : true,
+                      "useVisualPreRoll" : true
+                    }
+
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 1,
+                "medias" : [
+                ]
+              }            ]
+          }
+        }
+      ]
+    },
+    "trackAttributes" : [
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "solo" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "trackHeight" : "54"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "solo" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "trackHeight" : "54"
+        }
+      }
+    ],
+    "captionAttributes" : {
+      "enabled" : true,
+      "fontName" : "Arial",
+      "fontSize" : 32,
+      "backgroundColor" : [ 0, 0, 0, 204],
+      "foregroundColor" : [ 255, 255, 255, 255],
+      "lang" : "en",
+      "alignment" : 0,
+      "defaultFontSize" : true,
+      "opacity" : 0.5,
+      "backgroundEnabled" : true,
+      "backgroundOnlyAroundText" : true
+    },
+    "gain" : 1.0,
+    "legacyAttenuateAudioMix" : false,
+    "backgroundColor" : [ 0, 0, 0, 255]
+  },
+  "metadata" : {
+    "ProjectThumbnail" : "iVBORw0KGgoAAAANSUhEUgAAAh8AAAFnCAYAAAAGxCvgAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAACH6ADAAQAAAABAAABZwAAAAB3rcbeAABAAElEQVR4Aey9B7gkV3muu6q69yjnOMoZCUmAhCRAAglEzsYkk4MNfgyOOJ772D6+5/qc63B8ORgbgwOYaHIWOYoogVBCEkgo55yRNLu76n7vX7VaPd177xnNqHt6b31Lmt3dVSu+a9X6//WvUEVRFLVcOuaoo9IfvPm30onHH5/22H33VHY6Kem6nQmYgAmYgAmYgAk8YAJFkap+P11z3XXp1O9/P731n/8l/fjMM5P0jlQosvplL3hBes+7353mtt4qlffdm5I8W/F4wJgdwARMwARMwARMYJiAFI0kY0a12eapd/fd6dff8Ib0gY99PBXHHX1U/Z1vfiOVVZXq+V7qznUjGJqJnQmYgAmYgAmYgAlsKAFmVnC9+flUzM2lquykk05+cip/581vSqu22ir1dQPLB86KR2DwHxMwARMwARMwgY0gkPWJua23Dj1j1VZbpje/6bdScdX5P6333HvvVPd6EX32uBFpOagJmIAJmIAJmIAJDAhkC0jR7aarrrwyFb1bbqo7ZaklHrUtHgNM/mICJmACJmACJvBgEsh6Rl/LPEoUD5wtHg8mYsdlAiZgAiZgAiYwTCDrGegdjeYxfNffTcAETMAETMAETGCCBKx8TBCuozYBEzABEzABExgnYOVjnImvmIAJmIAJmIAJTJCAlY8JwnXUJmACJmACJmAC4wSsfIwz8RUTMAETMAETMIEJErDyMUG4jtoETMAETMAETGCcgJWPcSa+YgImYAImYAImMEECVj4mCNdRm4AJmIAJmIAJjBOw8jHOxFdMwARMwARMwAQmSMDKxwThOmoTMAETMAETMIFxAlY+xpn4igmYgAmYgAmYwAQJWPmYIFxHbQImYAImYAImME7Aysc4E18xARMwARMwAROYIAErHxOE66hNwARMwARMwATGCVj5GGfiKyZgAiZgAiZgAhMkYOVjgnAdtQmYgAmYgAmYwDgBKx/jTHzFBEzABEzABExgggSsfEwQrqM2ARMwARMwARMYJ2DlY5yJr5iACZiACZiACUyQgJWPCcJ11CZgAiZgAiZgAuMErHyMM/EVEzABEzABEzCBCRKw8jFBuI7aBEzABEzABExgnICVj3EmvmICJmACJmACJjBBAlY+JgjXUZuACZiACZiACYwTsPIxzsRXTMAETMAETMAEJkjAyscE4TpqEzABEzABEzCBcQJWPsaZ+IoJmIAJmIAJmMAECVj5mCBcR20CJmACJmACJjBOwMrHOBNfMQETMAETMAETmCABKx8ThOuoTcAETMAETMAExglY+Rhn4ismYAImYAImYAITJGDlY4JwHbUJmIAJmIAJmMA4ASsf40x8xQRMwARMwARMYIIErHxMEK6jNgETMAETMAETGCdg5WOcia+YgAmYgAmYgAlMkICVjwnCddQmYAImYAImYALjBKx8jDPxFRMwARMwARMwgQkSsPIxQbiO2gRMwARMwARMYJyAlY9xJr5iAiZgAiZgAiYwQQJWPiYI11GbgAmYgAmYgAmME7DyMc7EV0zABEzABEzABCZIwMrHBOE6ahMwARMwARMwgXECVj7GmfiKCZiACZiACZjABAlY+ZggXEdtAiZgAiZgAiYwTsDKxzgTXzEBEzABEzABE5ggASsfE4TrqE3ABEzABEzABMYJWPkYZ+IrJmACJmACJmACEyRg5WOCcB21CZiACZiACZjAOAErH+NMfMUETMAETMAETGCCBKx8TBCuozYBEzABEzABExgnYOVjnImvmIAJmIAJmIAJTJCAlY8JwnXUJmACJmACJmAC4wSsfIwz8RUTMAETMAETMIEJErDyMUG4jtoETMAETMAETGCcgJWPcSa+YgImYAImYAImMEECVj4mCNdRm4AJmIAJmIAJjBOw8jHOxFdMwARMwARMwAQmSMDKxwThOmoTMAETMAETMIFxAlY+xpn4igmYgAmYgAmYwAQJWPmYIFxHbQImYAImYAImME7Aysc4E18xARMwARMwAROYIAErHxOE66hNwARMwARMwATGCVj5GGfiKyZgAiZgAiZgAhMkYOVjgnAdtQmYgAmYgAmYwDgBKx/jTHzFBEzABEzABExgggSsfEwQrqM2ARMwARMwARMYJ2DlY5yJr5iACZiACZiACUyQgJWPCcJ11CZgAiZgAiZgAuMErHyMM/EVEzABEzABEzCBCRKw8jFBuI7aBEzABEzABExgnICVj3EmvmICJmACJmACJjBBAlY+JgjXUZuACZiACZiACYwTsPIxzsRXTMAETMAETMAEJkjAyscE4TpqEzABEzABEzCBcQJWPsaZ+IoJmIAJmIAJmMAECVj5mCBcR20CJmACJmACJjBOwMrHOBNfMQETMAETMAETmCABKx8ThOuoTcAETMAETMAExglY+Rhn4ismYAImYAImYAITJGDlY4JwHbUJmIAJmIAJmMA4ASsf40x8xQRMwARMwARMYIIErHxMEK6jNgETMAETMAETGCdg5WOcia+YgAmYgAmYgAlMkICVjwnCddQmYAImYAImYALjBKx8jDPxFRMwARMwARMwgQkSsPIxQbiO2gRMwARMwARMYJyAlY9xJr5iAiZgAiZgAiYwQQJWPiYI11GbgAmYgAmYgAmME7DyMc7EV0zABEzABEzABCZIwMrHBOE6ahMwARMwARMwgXECVj7GmfiKCZiACZiACZjABAlY+ZggXEdtAiZgAiZgAiYwTsDKxzgTXzEBEzABEzABE5ggASsfE4TrqE3ABEzABEzABMYJWPkYZ+IrJmACJmACJmACEyRg5WOCcB21CZiACZiACZjAOAErH+NMfMUETMAETMAETGCCBKx8TBCuozYBEzABEzABExgnYOVjnImvmIAJmIAJmIAJTJCAlY8JwnXUJmACJmACJmAC4wSsfIwz8RUTMAETMAETMIEJErDyMUG4jtoETMAETMAETGCcgJWPcSa+YgImYAImYAImMEECVj4mCNdRm4AJmIAJmIAJjBOw8jHOxFdMwARMwARMwAQmSMDKxwThOmoTMAETMAETMIFxAlY+xpn4igmYgAmYgAmYwAQJWPmYIFxHbQImYAImYAImME7Aysc4E18xARMwARMwAROYIAErHxOE66hNwARMwARMwATGCVj5GGfiKyZgAiZgAiZgAhMkYOVjgnAdtQmYgAmYgAmYwDgBKx/jTHzFBEzABEzABExgggSsfEwQrqM2ARMwARMwARMYJ2DlY5yJr5iACZiACZiACUyQgJWPCcJ11CZgAiZgAiZgAuMErHyMM/EVEzABEzABEzCBCRKw8jFBuI7aBEzABEzABExgnICVj3EmvmICJmACJmACJjBBAlY+JgjXUZuACZiACZiACYwTsPIxzsRXTMAETMAETMAEJkigO8G4Nz7qYlZ1ozqlWv/sTMAETMAETGDWCGT5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leosmYAJmIAJTIGA5FJ11g902q5eoMjOq8FpvFNIezSJ1vLB26TjxOB8OjBidQbd7CgfAQgLhyweWvVeaNtd57Cj9CbSPZoXOXF9VlW4GaxYZ8kETMAETGCCBFjroUHy/Bc/ktJNelkib72O9wttQmkfB/DxWgPNGmy+5ZDsnCCHDYx6dpQPrB2cgoi2ptdjF/s/LM39+duba/FyKWU1Xri0CSt2AyE7mAmYgAmYwAokIMtHoQWe8Y4iRBPCn3+bypF2niQYrPvYVJlZOt2ivu2WnNWlfU77LtMsnAmAxSOsHtPOgNMzARMwARMwgSUISE7Vt9wYL0fcpErHaBbDAqIXNe6wkywgW7QWkE2oFI3mT79nV/kgs1mDRBGxMwETMAETMIFZI8CmiCyrZi1vfXaMzqb8nKFplwVqbUahLZBTXzIBEzABE3goEuhph8lsyvdGKZpRxWi2lY+HYkN2mU3ABEzABJYPAba4zqqb4QG8lY9ZbTTOlwmYgAmYwOwTmGEBP8vw2L9qZwImYAImYAImYAJTI2DlY2qonZAJmIAJmIAJmAAErHy4HZiACZiACZiACUyVgJWPqeJ2YiZgAiZgAiZgAlY+3AZMwARMwARMwASmSsDKx1RxOzETMAETMAETMAErH24DJmACJmACJmACUyVg5WOquJ2YCZiACZiACZiAlQ+3ARMwARMwARMwgakSsPIxVdxOzARMwARMwARMwMqH24AJmIAJmIAJmMBUCVj5mCpuJ2YCJmACJmACJmDlw23ABEzABEzABExgqgSsfEwVtxMzARMwARMwAROw8uE2YAImYAImYAImMFUCVj6mituJmYAJmIAJmIAJWPlwGzABEzABEzABE5gqASsfU8XtxEzABEzABEzABKx8uA2YgAmYgAmYgAlMlYCVj6nidmImYAImYAImYAJWPtwGTMAETMAETMAEpkrAysdUcTsxEzABEzABEzABKx9uAyZgAiZgAiZgAlMlYOVjqridmAmYgAmYgAmYgJUPtwETMAETMAETMIGpErDyMVXcTswETMAETMAETMDKh9uACZiACZiACZjAVAlY+ZgqbidmAiZgAiZgAiZg5cNtwARMwARMwARMYKoErHxMFbcTMwETMAETMAETsPLhNmACJmACJmACJjBVAlY+porbiZmACZiACZiACVj5cBswARMwARMwAROYKgErH1PF7cRMwARMwARMwASsfLgNmIAJmIAJmIAJTJWAlY+p4nZiJmACJmACJmACVj7cBkzABEzABEzABKZKwMrHVHE7MRMwARMwARMwASsfbgMmYAImYAImYAJTJWDlY6q4nZgJmIAJmIAJmICVD7cBEzABEzABEzCBqRKw8jFV3E7MBEzABEzABEzAyofbgAmYgAmYgAmYwFQJWPmYKm4nZgImYAImYAImYOXDbcAETMAETMAETGCqBKx8TBW3EzMBEzABEzABE7Dy4TZgAiZgAiZgAiYwVQJWPqaK24mZgAmYgAmYgAlY+XAbMAETMAETMAETmCoBKx9Txe3ETMAETMAETMAErHy4DZiACZiACZiACUyVgJWPqeJ2YiZgAiZgAiZgAlY+3AZMwARMwARMwASmSsDKx1RxOzETMAETMAETMAErH24DJmACJmACJmACUyVg5WOquJ2YCZiACZiACZiAlQ+3ARMwARMwARMwgakSsPIxVdxOzARMwARMwARMwMqH24AJmIAJmIAJmMBUCVj5mCpuJ2YCJmACJmACJmDlw23ABEzABEzABExgqgSsfEwVtxMzARMwARMwAROw8uE2YAImYAImYAImMFUCVj6mituJmYAJmIAJmIAJWPlwGzABEzABEzABE5gqASsfU8XtxEzABEzABEzABKx8uA2YgAmYgAmYgAlMlYCVj6nidmImYAImYAImYAJWPtwGTMAETMAETMAEpkrAysdUcTsxEzABEzABEzABKx9uAyZgAiZgAiZgAlMlYOVjqridmAmYgAmYgAmYgJUPtwETMAETMAETMIGpErDyMVXcTswETMAETMAETMDKh9uACZiACZiACZjAVAlY+ZgqbidmAiZgAiZgAiZg5cNtwARMwARMwARMYKoErHxMFbcTMwETMAETMAET+P/bO/dgu6r6jn/3Pvue+765N4+bG5LAJSYQCREkUCTWgDaOgjIottZp1aK1tX/4j/hH7XTG8o/859SxVek47T84ppY/gCJQSIPFWjA1OggVMhjCw7wT8riP3Mc5Z+9+v+ucHU7CSbwnN/cMJN81c9j3rrX22ut8cmf2l99rWXz4b8AETMAETMAETKClBCw+WorbDzMBEzABEzABE7D48N+ACZiACZiACZhASwlYfLQUtx9mAiZgAiZgAiZg8eG/ARMwARMwARMwgZYS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",
+    "RulerGuidesX" : [],
+    "RulerGuidesY" : [],
+    "RulerShowing" : false,
+    "activeThemeId" : "e59eeb42-ccf0-4a36-bdf9-e630fdab686d",
+    "audiateSessionId" : "",
+    "firstMedia" : true,
+    "hasNotifiedAboutHFRMedia" : false,
+    "projectDuration" : "00:15"
+  }
+}

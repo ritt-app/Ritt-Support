@@ -7,7 +7,7 @@ permalink: /get-started
 
 # Get Started
 {: .no_toc }
-v1.0
+v1.2
 {: .label .label-purple}
 
 <details open markdown="block">
@@ -21,9 +21,10 @@ v1.0
 
 ## Compatibility and Download
 
-- Currently for Windows 10 and 11 only (Mac version planned)
+- Currently for Windows 10 and 11 only
 - Distributed via the Microsoft Store
 - [View web version of the Store](https://www.microsoft.com/store/apps/9N020ZXP2Z1G?cid=storebadge&ocid=badge), or [directly launch the Store app](ms-windows-store://pdp/?ProductId=9N020ZXP2Z1G)
+- Alternatively, download directly from the [Ritt website](https://ritt.app/download.html)
 
 ---
 
@@ -75,7 +76,7 @@ Source(s) will show up on the right (main) pane.
 
 - When you create many tags, you may want to organize the tags hierarchically.
 - Drag and drop children tags into parent tags.<br/><br/>
-  <video autoplay loop width="800" controls>
+  <video autoplay loop controls>
     <source src="/img/v1.0-MP4-Creating-Nested-Tags.mp4" type="video/mp4">
   </video>
 
@@ -93,7 +94,7 @@ Source(s) will show up on the right (main) pane.
 ## Activating multiple tags
 
 - Click on another *related tag* to activate it. You will now see items that are tagged to both tags.
-- Alternatively, in the tag tree on the left pane, Ctrl + click (or middle mouse button click) on another tag to activate it. <br/><br/>![Activated multiple tags](/img/v1.0-PNG-Activating-Multiple-Tags.png)
+- Alternatively, in the tag tree on the left pane, `Ctrl` + click (or middle mouse button click) on another tag to activate it. <br/><br/>![Activated multiple tags](/img/v1.0-PNG-Activating-Multiple-Tags.png)
 
 ---
 
@@ -101,7 +102,7 @@ Source(s) will show up on the right (main) pane.
 
 - In Ritt, you can drag and drop a folder into the tag pane. This folder can now also behave like a tag, you can tag items from other locations to it!<br/>
 - Watch the video below for a one-minute demo.
-<video loop controls>
-<source src="../img/v1.0-MP4-Integrating-Folders-and-Tags.mp4" type="video/mp4">
-</video>
+  <video controls>
+  <source src="../img/v1.0-MP4-Integrating-Folders-and-Tags.mp4" type="video/mp4">
+  </video>
 

@@ -7,21 +7,16 @@ permalink: /sources/adding-a-task-collection
 ---
 
 # Adding a task collection
-v0.9
-{: .label .label-blue}
+v1.2
+{: .label .label-purple}
 
 To add a task collection,
 
 - Click on the **Add Source** button.
 - Select **Task collection** in the menu.
 - Give a name to the task collection.<br/><br/>
-  <video autoplay loop width="800" controls>
-    <source src="/img/v0.9-MP4-Add-Task-Collection.mp4" type="video/mp4">
+  <video autoplay loop controls>
+    <source src="/img/v1.0-MP4-Adding-a-Task-Collection.mp4" type="video/mp4">
   </video>
 
 
-# Adding tasks
-
-In Ritt, a task is treated like a file, and needs to belong to a folder (either a real parent folder or a task collection)
-
-- Right click in the background of the main pane and select **New task**.

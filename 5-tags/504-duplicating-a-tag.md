@@ -7,14 +7,14 @@ permalink: /tags/duplicating-a-tag
 ---
 
 # Duplicating a tag
-v0.7
-{: .label .label-blue}
+v1.2
+{: .label .label-purple}
 
 - To duplicate a tag, right click on the tag and select **Duplicate**.
 
-Duplicating a tag creates another tag with the same name, icon and attributes as the original tag. Items tagged to the original tag will also be tagged to the duplicate tag.
+Duplicating a tag creates another tag with the same name, [icon and attributes](/tags/tag-icon-and-attributes) as the original tag. Items tagged to the original tag will also be tagged to the duplicate tag.
 
-<video autoplay loop width="700" controls>
-<source src="../img/MP4-Duplicate-Tag.mp4" type="video/mp4">
+<video autoplay loop controls>
+<source src="../img/v1.2-MP4-Duplicating-a-Tag.mp4" type="video/mp4">
 </video>
 

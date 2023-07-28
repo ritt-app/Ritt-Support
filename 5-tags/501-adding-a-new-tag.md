@@ -7,12 +7,13 @@ permalink: /tags/adding-a-new-tag
 ---
 
 # Adding a new tag
-v0.7
-{: .label .label-blue}
+v1.2
+{: .label .label-purple}
 
 - Click on the **Add Tag** <img src="../img/Button-Add-Tag.png" alt="Add Tag Button" width="50" style="padding: 0px 3px 0px 3px"/> button to add a new tag.
-- Enter a suitable name for the new tag. <br/><br/>![Add Tag](../img/Add-Tag.png)<br/><br/>
+- Enter a suitable name for the new tag. <br/><br/>
+    <img src="../img/v1.2-PNG-Add-New-Tag.png" alt="Add New Tag" width="300"/><br/><br/>
 - You can also add new tags by dragging and dropping the **Add Tag** button to a desired position in the list of existing tags.<br/><br/>
-    <video autoplay loop width="500" controls>
-    <source src="../img/MOV-Drag-Drop-New-Tag.mov" type="video/mp4">
+    <video autoplay loop controls>
+    <source src="../img/v1.2-MP4-Adding-Tag-by-Drag-and-Drop.mp4" type="video/mp4">
     </video>
