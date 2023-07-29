@@ -12,7 +12,7 @@ v1.2
 ![UI Overview](../img/v1.2-PNG-UI-Overview.png)
 <br/><br/>
 
-|<img src="../img/Buttons-Master-1.png" alt="1" width="30" />| Sign in to Ritt server (available from v1.1). |
+|<img src="../img/Buttons-Master-1.png" alt="1" width="30" />| Sign in to Ritt Cloud (available from v1.1). |
 |<img src="../img/Buttons-Master-2.png" alt="2" width="30" />| Click on the arrows to go backward or forward. |
 |<img src="../img/Buttons-Master-3.png" alt="3" width="30" />| Click to **refresh** (shortcut: `F5` key). |
 |<img src="../img/Buttons-Master-4.png" alt="4" width="30" />| Click on the **Home** button to view all Source folders and task collections. |
