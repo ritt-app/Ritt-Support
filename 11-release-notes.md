@@ -7,6 +7,14 @@ permalink: /release-notes
 
 # Release Notes
 
+## V1.2.1 (Sep 2023)
+- Interactive preview of 3D models (suggested by zendor)
+- Preview of markdown files, including support for syntax highlighting and math
+- Improved preview of pdfs, svg, images (zoom and pan support)
+- Alternative method of tagging: drag files/folders and drop them onto a tag (suggested by UnderPL)
+- Ability to quickly add new tags by mouseover buttons and context menu options (suggested by UnderPL)
+- Improved search experience with demarcated search tokens
+
 ## V1.2 (Jul 2023)
 - New Details pane. Shows item metadata, preview, tags, and linked items. Allows file-to-file and file-to-task linking.
 - More convenient tagging in Details pane. You can create new tags when tagging items.
