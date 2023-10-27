@@ -7,6 +7,12 @@ permalink: /release-notes
 
 # Release Notes
 
+## V1.2.2 (Oct 2023)
+- Aggregating and displaying tags relevant to items in view by searching to a certain, customizeable depth (default = 2 i.e. items in view and subfolder items)
+- Many new shortcut added, including one for tag entry ('T'). Now able to quickly tag items using only the keyboard. (suggested by u/AskingQuestionns)
+- Previous search entries can be pinned to the searchbar for quick access
+- Filter by tags after performing search
+
 ## V1.2.1 (Sep 2023)
 - Interactive preview of 3D models (suggested by zendor)
 - Preview of markdown files, including support for syntax highlighting and math
