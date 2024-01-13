@@ -7,8 +7,6 @@ permalink: /tasks/organising-tasks
 ---
 
 # Organizing tasks
-v1.2
-{: .label .label-purple}
 
 In Ritt, you can add tasks to a task collection, or multiple task collections. You can also add tasks to specific folders, right where your files are. In addition, you can also create task folders, which are essentially sub-folders within a task collection.
 

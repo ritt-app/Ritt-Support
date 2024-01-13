@@ -7,8 +7,6 @@ permalink: /search/search-by-tags
 ---
 
 # Search by tags
-v1.2
-{: .label .label-purple}
 
 - To search by tags, start typing the name of the tag in the search bar.
 - A list of suggested tags will appear. Select the required tag using the Tab key, or Up and Down arrow keys.

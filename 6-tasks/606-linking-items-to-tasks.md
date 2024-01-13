@@ -7,8 +7,6 @@ permalink: /tasks/linking-items-to-tasks
 ---
 
 # Linking items such as files and folders to tasks
-v1.2
-{: .label .label-purple}
 
 Wouldn't it be nice if you could click on a task, and immediately access the file(s) that you need to work on to complete that task?
 

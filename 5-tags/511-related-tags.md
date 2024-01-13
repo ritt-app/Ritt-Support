@@ -7,8 +7,6 @@ permalink: /tags/related-tags
 ---
 
 # Related tags
-v1.2
-{: .label .label-purple}
 
 Related tags are tags which have common items with currently activated tag(s). This feature helps you to quickly locate the files you are looking for by "narrowing your search".
 

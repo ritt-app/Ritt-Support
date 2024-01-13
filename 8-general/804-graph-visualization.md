@@ -7,8 +7,6 @@ permalink: /general/graph-visualization
 ---
 
 # The Graph Visualization
-v1.2
-{: .label .label-purple}
 
 Here's a really cool way to look at your data (folders, files, tags, tasks).
 

@@ -7,8 +7,6 @@ permalink: /search/combining-literals-tags-and-filters
 ---
 
 # Combining literals, tags and filters in the search bar
-v1.2
-{: .label .label-purple}
 
 - The following are examples of searches that combine literals, tags and filters. It is good practice to enclose the literal by quotation marks ("").
 

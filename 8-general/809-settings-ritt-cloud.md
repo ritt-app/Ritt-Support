@@ -7,7 +7,5 @@ permalink: /general/settings-ritt-cloud
 ---
 
 # Settings - Ritt Cloud
-v1.2
-{: .label .label-purple}
 
 🚧 Under construction, check back soon!

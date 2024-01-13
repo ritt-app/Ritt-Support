@@ -7,8 +7,6 @@ permalink: /tasks/viewing-all-tasks
 ---
 
 # Viewing all tasks
-v1.2
-{: .label .label-purple}
 
 Suppose you have added tasks under various different folders and tags, and you would like to see all your tasks in a single list, or perhaps, all your *outstanding* tasks in a single list, there is a simple way to do that in Ritt.
 

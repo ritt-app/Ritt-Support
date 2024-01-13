@@ -7,8 +7,6 @@ permalink: /tags/adding-a-new-tag
 ---
 
 # Adding a new tag
-v1.2
-{: .label .label-purple}
 
 - Click on the **Add Tag** <img src="../img/Button-Add-Tag.png" alt="Add Tag Button" width="50" style="padding: 0px 3px 0px 3px"/> button to add a new tag.
 - Enter a suitable name for the new tag. <br/><br/>

@@ -7,8 +7,6 @@ permalink: /search/search-filters
 ---
 
 # Search filters
-v1.2
-{: .label .label-purple}
 
 Using the search bar, it is possible to filter search results by properties such as size, date, file type, and number of tags.
 

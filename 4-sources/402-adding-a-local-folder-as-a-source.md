@@ -7,8 +7,6 @@ permalink: /sources/adding-a-local-folder-as-a-source
 ---
 
 # Adding a local folder as a Source
-v1.2
-{: .label .label-purple}
 
 To add a Local folder as a Source,
 

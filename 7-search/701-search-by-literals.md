@@ -7,8 +7,6 @@ permalink: /search/search-by-literals
 ---
 
 # Search by literals
-v1.2
-{: .label .label-purple}
 
 - To search by literals, simply type in a filename into the search bar (works similar to File Explorer).
 - Wildcards (* and ?) are supported.

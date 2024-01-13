@@ -7,8 +7,6 @@ permalink: /tags/integrating-folders-and-tags
 ---
 
 # Integrating folders and tags
-v1.2
-{: .label .label-purple}
 
 Ritt offers a unique feature that allows you to integrate your folders and tags in your file organization structure. 
 

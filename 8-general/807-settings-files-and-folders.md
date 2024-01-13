@@ -7,7 +7,5 @@ permalink: /general/settings-files-and-folders
 ---
 
 # Settings - Files and folders
-v1.2
-{: .label .label-purple}
 
 🚧 Under construction, check back soon!

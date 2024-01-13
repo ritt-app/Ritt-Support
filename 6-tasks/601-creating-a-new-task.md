@@ -7,8 +7,6 @@ permalink: /tasks/creating-a-new-task
 ---
 
 # Creating a new task
-v1.2
-{: .label .label-purple}
 
 In Ritt, a task is treated like a file, and needs to belong to a folder (either a real parent folder or a task collection).
 

@@ -7,7 +7,5 @@ permalink: /general/settings-appearance
 ---
 
 # Settings - Appearance
-v1.2
-{: .label .label-purple}
 
 🚧 Under construction, check back soon!

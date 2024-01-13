@@ -7,8 +7,6 @@ permalink: /tags/duplicating-a-tag
 ---
 
 # Duplicating a tag
-v1.2
-{: .label .label-purple}
 
 - To duplicate a tag, right click on the tag and select **Duplicate**.
 

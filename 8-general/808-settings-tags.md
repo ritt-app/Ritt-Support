@@ -7,7 +7,5 @@ permalink: /general/settings-tags
 ---
 
 # Settings - Tags
-v1.2
-{: .label .label-purple}
 
 🚧 Under construction, check back soon!

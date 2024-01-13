@@ -7,8 +7,6 @@ permalink: /sources/adding-a-task-collection
 ---
 
 # Adding a task collection
-v1.2
-{: .label .label-purple}
 
 To add a task collection,
 

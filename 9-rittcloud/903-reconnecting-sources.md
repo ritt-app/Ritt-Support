@@ -7,7 +7,5 @@ permalink: /rittcloud/reconnecting-sources
 ---
 
 # Reconnecting sources on a second computer
-v1.2
-{: .label .label-purple}
 
 🚧 Under construction, check back soon!

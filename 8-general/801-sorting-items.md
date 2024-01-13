@@ -7,8 +7,6 @@ permalink: /general/sorting-items
 ---
 
 # Sorting items
-v1.2
-{: .label .label-purple}
 
 In Ritt, you can sort the items in the main pane by the following properties - Name, Type, File size, Date modified, Date created, and Relevance.
 

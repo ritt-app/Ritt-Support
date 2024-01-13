@@ -7,8 +7,6 @@ permalink: /sources/promoting-to-source
 ---
 
 # Promoting to Source
-v1.2
-{: .label .label-purple}
 
 - This is the inverse of [Adding a parent folder as a Source](/sources/adding-a-parent-folder-as-a-source). You can promote one or more subfolders under a Source folder to become Sources themselves.
 - To do this, right click on the subfolder(s), and select **Promote to Source**.

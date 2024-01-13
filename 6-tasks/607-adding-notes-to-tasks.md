@@ -7,8 +7,6 @@ permalink: /tasks/adding-notes-to-tasks
 ---
 
 # Adding notes to tasks
-v1.2
-{: .label .label-purple}
 
 Sometimes you may want to add more details to describe a task. In Ritt, you can do this in two ways, by simply adding additional lines to the task item itself, or by using the Notes section in the Details pane.
 

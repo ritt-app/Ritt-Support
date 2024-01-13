@@ -7,7 +7,5 @@ permalink: /rittcloud/syncing-tags-and-tasks
 ---
 
 # Syncing your tags and tasks
-v1.2
-{: .label .label-purple}
 
 🚧 Under construction, check back soon!

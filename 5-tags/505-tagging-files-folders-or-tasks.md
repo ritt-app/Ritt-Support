@@ -7,8 +7,6 @@ permalink: /tags/tagging-files-folders-or-tasks
 ---
 
 # Tagging files, folders, or tasks
-v1.2
-{: .label .label-purple}
 
 - Navigate to and select the file(s), folder(s) or task(s) that you wish to tag.
 - Tag the item by clicking on the empty circle next to the tag. This creates a *direct* tag. <br/><br/>

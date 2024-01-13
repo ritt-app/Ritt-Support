@@ -7,8 +7,6 @@ permalink: /sources/changing-the-path-of-a-source
 ---
 
 # Changing the path of a Source
-v1.2
-{: .label .label-purple}
 
 If a Source folder is moved to another location in your computer, Ritt may not be able to locate it. In this case, you will see a circle with an exclamation mark next to the Source, indicating that the Source path needs to be updated. 
 - Click on the circle to update the Source path.<br/><br/>![Please Update Source path](../img/v1.2-PNG-Please-Update-Source-Path.png) <br/><br/>

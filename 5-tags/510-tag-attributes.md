@@ -7,8 +7,6 @@ permalink: /tags/tag-attributes
 ---
 
 # Tag attributes
-v1.2
-{: .label .label-purple}
 
 - Right click on a tag and go to **Attributes**.
 - There are three attributes that can be assigned to a tag - Badge, Dashboard and Hot Key.<br/><br/>

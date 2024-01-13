@@ -7,8 +7,6 @@ permalink: /tags/tag-icon
 ---
 
 # Tag icon
-v1.2
-{: .label .label-purple}
 
 - Right click on a tag and go to **Icon**.
 - Here you can assign an icon (e.g., emoji or GIF) to your tag.<br/><br/>
