@@ -7,6 +7,22 @@ permalink: /release-notes
 
 # Release Notes
 
+## V1.3 (Jan 2024)
+### New Features
+- Auto Tag with AI
+Automatically applies the most relevant among potential tags to selected image files.
+- Scripting support
+Automate repetitive task with scripting.
+- Navigation history. Right click on back/forward buttons to view
+- Drag and drop tags onto Searchbar to build query
+- New shortcut: Double click on a tag to navigate to the first integrated folder under it
+- Option to pause sync to Ritt Cloud
+
+### Bug Fixes
+- Ritt fails to launch if database is deleted
+- Shortcut for pasting (Ctrl+V) does not work on empty folder
+- Removing a tag icon causes an empty slot to appear in favourites, which cannot be deleted
+
 ## V1.2.2 (Oct 2023)
 - Aggregating and displaying tags relevant to items in view by searching to a certain, customizeable depth (default = 2 i.e. items in view and subfolder items)
 - Many new shortcut added, including one for tag entry ('T'). Now able to quickly tag items using only the keyboard. (suggested by u/AskingQuestionns)
