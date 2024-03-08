@@ -7,6 +7,24 @@ permalink: /release-notes
 
 # Release Notes
 
+## V1.3.1 (Mar 2024)
+### New Features
+- Columns in List view displaying file properties (e.g. size, modified), tags, linked items and notes
+- Change the size of thumbnails in List view with Ctrl + scroll
+- Option to minimize to the system tray on closing Ritt (Settings -> Advanced -> Run in the background)
+- Option to run on Windows startup (Settings -> Advanced -> Run on Windows startup)
+- Tag tree separators. These can be used to visually segment a long list of tags
+- Option to sort tags by name (right click on any tag or tag tree background)
+- Option to search using Windows Search Index, which could improve search performance (Settings -> Advanced -> Search with Windows Search Index)
+- Automatically reduce the size of tags in Details Pane when there are a large number of tags 
+- Order of tags in Details Pane follows the order of appearance in the tag tree
+- Renamed "Dashboard" tag attribute to "Encapsulate" to better describe the meaning of that tag attribute i.e. it encapsulates items tagged to children tags
+
+### Bug Fixes
+- Sometimes signing in to Ritt Cloud from the app fails
+- Ritt fails to capture all file changes when a large number of files are moved at the same time
+- Could not drag and drop tags onto Details Pane
+
 ## V1.3 (Jan 2024)
 ### New Features
 - Auto Tag with AI
