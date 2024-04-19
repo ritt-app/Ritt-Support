@@ -8,7 +8,7 @@ permalink: /release-notes
 # Release Notes
 
 ## V1.4.0 (Apr 2024)
-# New Features
+### New Features
 - Related tags are shown in tagging pane. Click on any to tag
 - Independent tagging pane shows up when Details pane is closed. Shortcut: T
 - Filter by tag exclusion. On any related tag, right click -> Exclude, or Middle-click. Click on activated tags to toggle polarity
@@ -21,14 +21,14 @@ permalink: /release-notes
 - Customizable file properties to display in Details pane
 - Shift + Delete to permanently delete 
 
-# Refinements
+### Refinements
 - UI refresh
 - Reduced item rendering time
 - Improved tag search
 - Simplified tag attribute assignment
 - Refined Grouping by Tags to avoid generating too many groups. New option in Settings -> Tags: Tag Combo Capacity
 
-# Bug Fixes
+### Bug Fixes
 - Cannot copy tasks by keyboard shortcuts or drag and drop
 - Double-clicking a .url file launches the website twice
 - Sometimes, the missing file button does not show up
