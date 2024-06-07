@@ -7,6 +7,26 @@ permalink: /release-notes
 
 # Release Notes
 
+## V1.4.1 (Jun 2024)
+### New Features
+- File properties (e.g. Image dimensions, Media length) can be displayed and used to sort files in the List view
+- Option to display file properties as overlays in Grid view for selected file types
+- Option to choose visibility and order of Blocks (Tag, Preview, etc) in the Details Pane
+- Copy tags from a file and paste them onto other files
+- Number of tagged items of a tag displayed in Tag Pane
+- New Scripting APIs to get and set tag alias 
+
+### Refinements
+- Potential tags are selected based on tags of other files in the same folder
+- Inherited tags are subtly displayed as text rather than buttons
+- Image preview now supports pinch to zoom using the trackpad
+- Improved handling of slow disk operations e.g. a busy network drive
+- Improved video scrubbing: black bands removed and playback progress is shown
+- Dark mode colors are finetuned
+
+### Bug Fixes
+- Ritt window blocks auto-hide taskbar when maximized
+
 ## V1.4.0 (Apr 2024)
 ### New Features
 - Related tags are shown in tagging pane. Click on any to tag
