@@ -248,10 +248,7 @@ The name and ID of the tag
 {
   "Command": "GetTagName",
   "Response": "OK",
-  "Result": {
-    "Name": "Charlie",
-    "ID": 244
-  }
+  "Result": "Charlie"
 }
 ```
 
@@ -329,6 +326,7 @@ Rename a tag
 
 **Required parameters**
 - ```TagID```: ID of the target tag
+- ```NewName```: New name
 
 ```python
 command = {
@@ -347,6 +345,63 @@ sendCommand(command)
 ```json
 {
   "Command": "RenameTag",
+  "Response": "OK"
+}
+```
+
+### Get Tag Alias
+
+Get the alias of a tag
+
+**Required parameters**
+- ```TagID```: ID of the target tag
+
+```python
+command = {
+    "AccessKey": "get-key-from-settings-scripting",
+    "Command": "GetTagAlias",
+    "Parameters": 
+    {
+        "TagID": 673
+    }
+}
+sendCommand(command)
+```
+
+**Response**
+```json
+{
+  "Command": "GetTagAlias",
+  "Response": "OK",
+  "Result": "Some alias"
+}
+```
+
+### Set Tag Alias
+
+Set the alias of a tag
+
+**Required parameters**
+- ```TagID```: ID of the target tag
+- ```NewAlias```: New alias
+
+```python
+command = {
+    "AccessKey": "get-key-from-settings-scripting",
+    "Command": "SetTagAlias",
+    "Parameters": 
+    {
+        "TagID": 673,        
+        "NewAlias": "Some other alias"
+    }
+}
+sendCommand(command)
+```
+
+**Response**
+```json
+{
+  "Command": "SetTagAlias",
   "Response": "OK"
 }
 ```
