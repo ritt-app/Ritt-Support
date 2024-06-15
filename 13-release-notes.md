@@ -7,6 +7,10 @@ permalink: /release-notes
 
 # Release Notes
 
+## V1.4.2 (Jun 2024)
+### Bug Fixes
+- Ritt fails to find the database file if it did not exit properly after the first launch.
+
 ## V1.4.1 (Jun 2024)
 ### New Features
 - File properties (e.g. Image dimensions, Media length) can be displayed and used to sort files in the List view
