@@ -2,7 +2,7 @@
 layout: default
 title: Intersection vs. Union mode
 parent: Tags
-nav_order: 512
+nav_order: 515
 permalink: /tags/intersection-vs-union-mode
 ---
 

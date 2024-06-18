@@ -16,6 +16,6 @@ Ritt is built on top of your existing file system, meaning that you need not rev
 
 Navigate to the different sections on the left to learn more!
 
-![Hero image](../img/Hero-Dashboard.webp)
+![Hero image](../img/v1.4.0-PNG-Hero.png)
 
 

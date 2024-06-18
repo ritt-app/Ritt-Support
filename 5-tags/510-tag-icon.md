@@ -2,7 +2,7 @@
 layout: default
 title: Tag icon
 parent: Tags
-nav_order: 509
+nav_order: 510
 permalink: /tags/tag-icon
 ---
 

@@ -25,3 +25,5 @@ permalink: /keyboard-shortcuts
 | New File            | I                  | Create a new file                              |
 | New Folder          | O                  | Create a new folder                            |
 | New Task            | K                  | Create a new task                              |
+| Multiselect Mode    | M                  | Toggle Multiselect Mode in the Tag Pane        |
+| View Hidden Tags    | V                  | View or Hide hidden tags                       |

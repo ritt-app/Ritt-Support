@@ -2,7 +2,7 @@
 layout: default
 title: Related tags
 parent: Tags
-nav_order: 511
+nav_order: 514
 permalink: /tags/related-tags
 ---
 

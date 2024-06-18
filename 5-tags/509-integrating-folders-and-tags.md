@@ -2,7 +2,7 @@
 layout: default
 title: Integrating folders and tags
 parent: Tags
-nav_order: 508
+nav_order: 509
 permalink: /tags/integrating-folders-and-tags
 ---
 

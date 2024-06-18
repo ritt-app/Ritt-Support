@@ -28,8 +28,8 @@ permalink: /get-started
 
 ## Add Source(s) to organize
 
-- Click on the **Add Source** <img src="img/Button-Add-Source.png" alt="Add Source Button" width="50" style="padding: 0px 3px 0px 3px"/> button.
-- Select **Local folder** in the menu. <br/><br/><img src="img/v1.0-PNG-Add-Source-Local-Folder.png" alt="Add Source" width="400"/><br/><br/>
+- Click on the **Add Source** <img src="img/v1.4.0-PNG-Button-Add-Source.png" alt="Add Source Button" width="50" style="padding: 0px 3px 0px 3px"/> button.
+- Select **Local folder** in the menu. <br/><br/><img src="img/v1.4.0-PNG-Add-Source-Local-Folder.png" alt="Add Source" width="300"/><br/><br/>
 - Select a folder which you wish to organize better with Ritt. 
 
 Source(s) will show up on the right (main) pane.
@@ -51,8 +51,8 @@ Source(s) will show up on the right (main) pane.
 
 ## Add Tags
 
-- Click on the **Add Tag** <img src="img/Button-Add-Tag.png" alt="Add Tag Button" width="50" style="padding: 0px 3px 0px 3px"/> button to add a new tag.
-- Enter a suitable name for the new tag. <br/><br/><img src="img/v1.0-PNG-Add-Tag.png" alt="Add Tag" width="400"/><br/><br/>
+- Click on the **Add Tag** <img src="img/v1.4.0-PNG-Button-Add-Tag.png" alt="Add Tag Button" width="50" style="padding: 0px 3px 0px 3px"/> button to add a new tag.
+- Enter a suitable name for the new tag. <br/><br/><img src="img/v1.4.0-PNG-Add-Tag.png" alt="Add Tag" width="300"/><br/><br/>
 - After the first tag has been created, you can also add new tags by dragging and dropping the **Add Tag** button to a desired position in the list of existing tags.<br/><br/>
   <video autoplay loop controls>
     <source src="/img/v1.0-MP4-Add-Tag-Drag-and-Drop.mp4" type="video/mp4">
@@ -63,7 +63,8 @@ Source(s) will show up on the right (main) pane.
 ## Tagging files/folders
 
 - Navigate to and select the file(s) or folder(s) that you wish to tag.
-- Tag the item(s) by clicking on the empty circle next to the tag. <br/><br/>
+- Tag the item(s) by clicking on the empty circle next to the tag.
+- Ritt offers many different ways to tag your files and folders, including **automated tagging**! Find out more [here](/tags/tagging-files-folders-or-tasks).<br/><br/>
   <video autoplay loop controls>
     <source src="/img/v1.0-MP4-Tag-Item.mp4" type="video/mp4">
   </video>
@@ -85,21 +86,22 @@ Source(s) will show up on the right (main) pane.
 - In the tag tree (left panel), navigate to and click on a desired tag to activate it.
 - Tagged items will be displayed in the right panel.
 - You will see the active tag in the Address bar, along with other [*related tags*](/tags/related-tags) next to it (greyed out when not selected). Related tags are tags which have common items with currently activated tag(s).
-<br/><br/>![Activated tag](/img/v1.0-PNG-Activating-a-Tag.png)
+- The grouping for the display of the tagged items is [customizable](/general/grouping-items).
+<br/><br/>![Activated tag](/img/v1.4.0-PNG-Activating-a-Tag.png)
 
 ---
 
 ## Activating multiple tags
 
 - Click on another *related tag* to activate it. You will now see items that are tagged to both tags.
-- Alternatively, in the tag tree on the left pane, `Ctrl` + click (or middle mouse button click) on another tag to activate it. <br/><br/>![Activated multiple tags](/img/v1.0-PNG-Activating-Multiple-Tags.png)
+- Alternatively, in the tag tree on the left pane, `Ctrl` + click (or middle mouse button click) on another tag to activate it. <br/><br/>![Activated multiple tags](/img/v1.4.0-PNG-Activating-Multiple-Tags.png)
 
 ---
 
 ## Integrating folders and tags
 
-- In Ritt, you can drag and drop a folder into the tag pane. This folder can now also behave like a tag, you can tag items from other locations to it!<br/>
-- Watch the video below for a one-minute demo.
+- In Ritt, you can drag and drop a folder into the tag pane. This folder can now also behave like a tag, you can tag items from other locations to it!
+- Watch the video below for a one-minute demo. <br/><br/>
   <video controls>
   <source src="../img/v1.0-MP4-Integrating-Folders-and-Tags.mp4" type="video/mp4">
   </video>
