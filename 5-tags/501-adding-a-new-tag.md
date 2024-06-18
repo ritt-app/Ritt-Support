@@ -14,4 +14,6 @@ permalink: /tags/adding-a-new-tag
 - You can also add new tags by dragging and dropping the **Add Tag** button to a desired position in the list of existing tags.<br/><br/>
     <video autoplay loop controls>
     <source src="../img/v1.2-MP4-Adding-Tag-by-Drag-and-Drop.mp4" type="video/mp4">
-    </video>
+    </video><br/>
+
+- Another alternative way to add a new tag is to mouse over an existing tag, and click on either the<img src="../img/v1.4.0-SVG-Hover-Button-Add-Tag.svg" alt="Hover Add Tag" width="30" style="padding: 0px 3px 0px 3px"/>or<img src="../img/v1.4.0-SVG-Hover-Button-Add-Child-Tag.svg" alt="Hover Add Child Tag" width="30" style="padding: 0px 3px 0px 3px"/>button that appears.<br/><br/>![Hover Add Tag Example](../img/v1.4.0-SVG-Hover-Add-Tag-Example.svg)
