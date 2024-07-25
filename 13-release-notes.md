@@ -7,6 +7,31 @@ permalink: /release-notes
 
 # Release Notes
 
+## V1.5.0 (Jul 2024)
+### New Features
+- Multi-language support
+- Create tags from keywords (also called tags in Explorer)
+- Write tags as keywords for files that support it (e.g. .jpg, .mp4)
+- New tag attribute: Inherit. With this attribute, items within tagged folders, up to the chosen depth, will inherit this tag. This replaces the tag inheritance functionalities in previous versions.
+- Notes are now searchable
+- Linked items are clustered together when sorted by Linked items
+- Option to scan multiple levels up the folder tree for potential tags
+- Option to quickly expand/collapse all levels of a tag or folder tree (Right-click on the expand button)
+- Portable zip version
+
+### Refinements
+- Redesigned grouping UI to make groups more visually obvious
+- Increased Tag Combo Capacity
+- Renamed "Multiselect mode" to "Disengage navigation" and changed the icon to reflect its purpose better
+- Context menu shows close to the pointer
+- Load shell context menu items on demand (when hovering over "Show more items")
+- Improved auto-update experience (Settings -> About -> Auto update) for non-Store installed versions
+
+### Bug Fixes
+- Occasionally, Ritt's settings file becomes corrupted and Ritt will fail to launch
+- Launching Ritt from a .ritt database file opens the previous database file instead
+- File change watcher sometimes stops working
+
 ## V1.4.2 (Jun 2024)
 ### Bug Fixes
 - Ritt fails to find the database file if it did not exit properly after the first launch.
