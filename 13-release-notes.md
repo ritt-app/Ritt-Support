@@ -7,6 +7,16 @@ permalink: /release-notes
 
 # Release Notes
 
+## V1.5.1 (Aug 2024)
+### Refinements
+- UI tweaks: Adjust spacing in tag tree to gain more horizontal real estate
+
+### Bug Fixes
+- Sometimes, after deleting or renaming an item, all thumbnails in view disappear.
+- Group headers occasionally show incorrect top margin
+- Hover to scrub video does not work correctly for very short videos or videos with unknown length
+- Excess margin in Details pane if some Details blocks are hidden
+
 ## V1.5.0 (Jul 2024)
 ### New Features
 - Multi-language support
