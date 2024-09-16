@@ -18,6 +18,7 @@ permalink: /keyboard-shortcuts
 | List/Grid           | L                  | Toggle between List and Grid views             |
 | Details             | D                  | Show/Hide Details Panel                        |
 | Preview             | P                  | Toggle Preview                                 |
+| Pin to Details pane | N                  | Toggle Pin                                 |
 | Settings            | S                  | Open settings                                  |
 | New Tag             | Ctrl + N           | Create a new tag                               |
 | Union/intersection  | U                  | Toggle between tag union or intersection modes |
