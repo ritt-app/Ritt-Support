@@ -7,6 +7,38 @@ permalink: /release-notes
 
 # Release Notes
 
+## V1.5.2 (Sep 2024)
+### New Features
+- Support for Everything as a file search engine. Settings -> Files and folders -> File search engine
+- Preview Office documents. Requires Microsoft Office to be installed. Due to an [SDK limitation](https://github.com/microsoft/microsoft-ui-xaml/issues/7767), the preview is shown in a separate window for now. This will be fixed in the future
+- Quick Search (Lightning button on the right of the search bar). This allows you to save frequent searches with a name and description
+- Find duplicated files. This is implemented as a search filter (duplicate) and as a default Quick Search
+- Read-only mode: Prevent accidental changes to files and tags. Settings -> Advanced -> Read-only mode
+- Option to start Ritt in maximized, minimized or background mode on system startup. Settings -> Advanced -> Run at Windows startup
+- Notes for tags. Right-click on a tag -> Notes
+- Export Ritt tags in CSV format
+- Context menu option for folder: Integrate into tag tree
+- Warn the user about duplicated tags. This can be turned off in Settings
+- Find and reveal tags in the Tag tree from the search bar
+- Option to display the name of the current database file. Settings -> Database -> Show Ritt Database File name
+- Display the total number of tags at the bottom of the Tag pane
+
+### Refinements
+- When navigating from a child to a parent folder, the originating child folder is scrolled to and highlighted
+- Clearer messaging about History changes and sync conflict warnings
+- Changes to Settings are saved as they are made (instead of on app exit)
+- File picker dialog for locating missing files is initialized to the containing directory
+- Language selector for MSI and Portable versions
+- Scrollbar width increased by about 50%
+- Tag exclusion is more visually obvious
+- Exits search mode when all search terms are cleared
+- Shortcut key for Pin in the Details pane: N
+- Video thumbnail is hidden when scrubbing on hover
+
+### Bug Fixes
+- Ritt hangs when pressing backspace to delete a search token in the search bar 
+- More reliable tracking of file changes: automatically restart [FileSystemWatcher](https://learn.microsoft.com/en-us/dotnet/api/system.io.filesystemwatcher?view=net-8.0) on error
+
 ## V1.5.1 (Aug 2024)
 ### Refinements
 - UI tweaks: Adjust spacing in tag tree to gain more horizontal real estate
