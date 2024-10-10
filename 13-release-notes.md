@@ -7,6 +7,16 @@ permalink: /release-notes
 
 # Release Notes
 
+## V1.5.3 (Oct 2024)
+### Refinements
+- File name follows natural sort order like in File Explorer e.g. File1, File2, File10 instead of File1, File10, File2
+- Sync column (More..-> Common -> Sync) will display OneDrive file sync status like "in progress" and "error"
+
+### Bug Fixes
+- Ritt crashes when Google Drive dismounts
+- Installing MSI updates will remove taskbar pin. The fix will take effect from the next update onwards
+- Status ring (top left corner) remains even after the user signs out
+
 ## V1.5.2 (Sep 2024)
 ### New Features
 - Support for Everything as a file search engine. Settings -> Files and folders -> File search engine
