@@ -10,3 +10,50 @@ video {
   width: 100%;
   height: auto;
 }
+
+.ui-icon{
+  /* Constrain the bounding box */
+  max-width: 25px;
+  max-height: 25px;
+
+  /* Preserve the SVG’s intrinsic proportions */
+  width: 100%;
+  height: auto;
+
+  padding: 3px;
+
+  /* Visual styling */
+  background-color: #EFEFEF;   /* light grey */
+  border-radius: 4px;          /* round the corners */
+  border: 1px solid #D3D3D3;         /* slightly dark grey border */
+  display: inline-block;       /* respect width/height and play nice in text flow */
+  overflow: hidden;            /* clip overflowing graphics inside rounded corners */
+}
+
+.button {
+  padding: 0.5em 1em;
+  
+  border: none;
+  background-color: white;
+  color: #333;
+  font-size: 1rem;
+  border-radius: 4px 4px 0 0;
+  cursor: pointer;
+  transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease;
+}
+
+.button:hover {
+  background-color: #f5f5f5;
+}
+
+.button:focus {
+  outline: none;
+}
+
+.button:active {
+  background-color: #eaeaea;
+}
+
+.selected {  
+  border-bottom: 2px solid #f86d53;
+}

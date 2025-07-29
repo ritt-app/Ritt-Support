@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Scripting API
-nav_order: 11
-permalink: /scripting-api
+title: External Scripting
+parent: Scripting
+nav_order: 1102
+permalink: /scripting-api/external-scripting
 ---
 
-# Scripting API
+# External Scripting
 {: .no_toc }
 
 <details open markdown="block">
@@ -17,15 +18,15 @@ permalink: /scripting-api
 {:toc}
 </details>
 
-## Preamble
+# Preamble
 
-### Definitions
+## Definitions
 - **Datum**: A file, folder or task to be organized by Ritt
 
-### API usage
+## API usage
 Ritt APIs are called by sending JSON-formatted strings, called Commands, to localhost. To enable scripting, go to Settings -> Scripting -> Enable Scripting. The default address and port is ```127.0.0.1:52848```. You can change the port number from Settings -> Scripting -> Port number. The response is also in the form of a JSON-formatted string. To authenticate a Command, an access key is required. This can be obtained from Settings -> Scripting -> Enable Scripting. In this documentation, we will use Python to call Ritt APIs, although other languages can used as well.
 
-### Sending commands (Python example)
+## Sending commands (Python example)
 ```python
 import socket, json, struct
 
@@ -77,15 +78,15 @@ def recvall(sock, n):
 ```
 		
 
-### Closing the connection
+## Closing the connection
 ```python
 client_socket.close()
 ```
 
 
-## APIs
+# APIs
 
-### Get Tag Root
+## Get Tag Root
 Get the name and ID of the root tag.
 
 ```python
@@ -110,7 +111,7 @@ The name and ID of the root tag
 }
 ```
 
-### Get Children Tags
+## Get Children Tags
 
 Get the names and IDs of all children tags of a tag, to be located by ID. This can be called repeatedly to iterate the tag tree.
 
@@ -154,7 +155,7 @@ The names and IDs of all children tags
 }
 ```
 
-### Get Parent Tag
+## Get Parent Tag
 
 Get the name and ID of the parent tag of a tag, to be located by ID.
 
@@ -188,7 +189,7 @@ The name and ID of the parent tag
 }
 ```
 
-### Get All Tags
+## Get All Tags
 
 Get all the tags in the database.
 
@@ -221,7 +222,7 @@ The names and IDs of all tags
 ```
 
 
-### Get Tag Name
+## Get Tag Name
 
 Get the name of a tag, specified by ID.
 
@@ -252,7 +253,7 @@ The name and ID of the tag
 }
 ```
 
-### Create tags
+## Create tags
 
 Create new tags under a parent tag.
 
@@ -293,7 +294,7 @@ The names and IDs of newly created tags
 }
 ```
 
-### Delete tags
+## Delete tags
 
 Delete tags by ID
 
@@ -320,7 +321,7 @@ sendCommand(command)
 }
 ```
 
-### Rename tag
+## Rename tag
 
 Rename a tag
 
@@ -349,7 +350,7 @@ sendCommand(command)
 }
 ```
 
-### Get Tag Alias
+## Get Tag Alias
 
 Get the alias of a tag
 
@@ -377,7 +378,7 @@ sendCommand(command)
 }
 ```
 
-### Set Tag Alias
+## Set Tag Alias
 
 Set the alias of a tag
 
@@ -406,7 +407,7 @@ sendCommand(command)
 }
 ```
 
-### Duplicate tags
+## Duplicate tags
 
 Duplicate tags by ID
 
@@ -444,7 +445,7 @@ Names and IDs of the duplicated tags
 }
 ```
 
-### Move tags
+## Move tags
 
 Moves tags to a new parent tag
 
@@ -485,7 +486,7 @@ Names and IDs of successfully moved tags
 ```
 
 
-### Tagging
+## Tagging
 
 Apply tags to datums, located by either path (file or folder) or ID (file, folder or task). Invalid DatumPaths, DatumIDs or TagIDs will generate warning.
 
@@ -537,7 +538,7 @@ The names, IDs and paths (if applicable) of successfully tagged datums
 }
 ```
 
-### Untagging
+## Untagging
 Removing tags from datums. Invalid DatumPaths, DatumIDs or TagIDs will generate warning.
 
 **Optional parameters**
@@ -588,7 +589,7 @@ The names, IDs and paths (if applicable) of successfully untagged datums
 }
 ```
 
-### Get Datums by Tag
+## Get Datums by Tag
 
 Get all datums associated with a tag. This includes:
 - Datums directly tagged by this tag

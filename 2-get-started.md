@@ -28,7 +28,7 @@ permalink: /get-started
 
 ## Add Source(s) to organize
 
-- Click on the **Add Source** <img src="img/v1.4.0-PNG-Button-Add-Source.png" alt="Add Source Button" width="50" style="padding: 0px 3px 0px 3px"/> button.
+- Click on the **Add Source** <img class="ui-icon" src="img/Btn-Package.svg" alt="Add Source Button"/> button.
 - Select **Local folder** in the menu. <br/><br/><img src="img/v1.4.0-PNG-Add-Source-Local-Folder.png" alt="Add Source" width="300"/><br/><br/>
 - Select a folder which you wish to organize better with Ritt. 
 
@@ -51,7 +51,7 @@ Source(s) will show up on the right (main) pane.
 
 ## Add Tags
 
-- Click on the **Add Tag** <img src="img/v1.4.0-PNG-Button-Add-Tag.png" alt="Add Tag Button" width="50" style="padding: 0px 3px 0px 3px"/> button to add a new tag.
+- Click on the **Add Tag** <img class="ui-icon" src="img/Btn-Tag.svg" alt="Add Tag Button"/> button to add a new tag.
 - Enter a suitable name for the new tag. <br/><br/><img src="img/v1.4.0-PNG-Add-Tag.png" alt="Add Tag" width="300"/><br/><br/>
 - After the first tag has been created, you can also add new tags by dragging and dropping the **Add Tag** button to a desired position in the list of existing tags.<br/><br/>
   <video autoplay loop controls>

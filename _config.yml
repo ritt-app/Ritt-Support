@@ -41,7 +41,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Ritt":
+  "Ritt.app":
     - "//ritt.app"
 
 # Makes Aux links open in a new tab. Default is false
@@ -72,6 +72,12 @@ color_scheme: orange
 # Callouts
 callouts_level: quiet # or loud
 callouts:
+  warning:
+    title: Warning
+    color: red
   note:
     title: Note
     color: blue
+  code:
+    color: grey-lt
+
