@@ -7,6 +7,27 @@ permalink: /release-notes
 
 # Release Notes
 
+## V1.6.0 (Aug 2025)
+### New Features
+- [Internal scripting](https://docs.ritt.app/scripting-api/internal-scripting). Write and run scripts in Javascript or VBS syntax directly within Ritt. 
+- Realtime sync. Multiple instances of Ritt will sync changes within a few seconds. 
+- Merge tags. Select multiple tags to be merged in the Tag Pane, right-click and select "Merge tags".
+
+### Refinements
+- The path of Source folders are displayed.
+- Thumbnails are now cached for a smoother experience.
+- Copy the path of the current folder. Right-click on the background, and select copy path.
+- Moved tag union/intersection button to the tagbar, where is logically belongs.
+
+### Bug Fixes
+- Problems with accessing Ritt Pro on the renewal date
+- Problems when trying to edit search tokens in the search bar
+- Could not undo tag deletion in some cases
+- Creating tags from keywords doesn't work when more than 5 files are selected
+- Preview does not dismiss when selected item has been cleared
+- Cannot use tab to create search token without selecting previous search
+- Executables are launched with its parent directory as the working directory
+
 ## V1.5.3 (Oct 2024)
 ### Refinements
 - File name follows natural sort order like in File Explorer e.g. File1, File2, File10 instead of File1, File10, File2
